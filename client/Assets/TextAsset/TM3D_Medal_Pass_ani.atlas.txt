@@ -1,0 +1,104 @@
+
+TM3D_Medal_Pass_ani.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-Scepter_right
+  rotate: false
+  xy: 251, 258
+  size: 111, 126
+  orig: 111, 126
+  offset: 0, 0
+  index: -1
+1-ribbon_down
+  rotate: false
+  xy: 431, 301
+  size: 65, 83
+  orig: 69, 85
+  offset: 2, 2
+  index: -1
+1-ribbon_right
+  rotate: false
+  xy: 364, 410
+  size: 39, 93
+  orig: 43, 96
+  offset: 1, 2
+  index: -1
+Olive branch_right
+  rotate: false
+  xy: 405, 186
+  size: 84, 79
+  orig: 88, 80
+  offset: 2, 1
+  index: -1
+crown
+  rotate: true
+  xy: 405, 386
+  size: 117, 77
+  orig: 118, 77
+  offset: 0, 0
+  index: -1
+crown-gem
+  rotate: true
+  xy: 241, 2
+  size: 29, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+dun
+  rotate: false
+  xy: 2, 252
+  size: 247, 251
+  orig: 249, 251
+  offset: 1, 0
+  index: -1
+gem-piaodai
+  rotate: true
+  xy: 364, 267
+  size: 117, 65
+  orig: 117, 65
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 5
+  size: 237, 245
+  orig: 237, 246
+  offset: 0, 1
+  index: -1
+piaodai-2
+  rotate: true
+  xy: 251, 413
+  size: 90, 95
+  orig: 91, 96
+  offset: 0, 1
+  index: -1
+ribbon_right
+  rotate: false
+  xy: 405, 140
+  size: 94, 44
+  orig: 99, 47
+  offset: 2, 2
+  index: -1
+star-bg
+  rotate: true
+  xy: 241, 33
+  size: 217, 162
+  orig: 217, 163
+  offset: 0, 1
+  index: -1
+star1
+  rotate: true
+  xy: 281, 17
+  size: 14, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+star2
+  rotate: false
+  xy: 281, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1

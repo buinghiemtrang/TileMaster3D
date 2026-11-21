@@ -1,0 +1,41 @@
+
+TM3D_Case_Light01_eff.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GoldPassBg
+  rotate: false
+  xy: 2, 2
+  size: 232, 154
+  orig: 234, 156
+  offset: 1, 1
+  index: -1
+glow-line
+  rotate: false
+  xy: 2, 434
+  size: 79, 6
+  orig: 95, 16
+  offset: 15, 7
+  index: -1
+light01
+  rotate: false
+  xy: 2, 287
+  size: 210, 127
+  orig: 213, 129
+  offset: 1, 1
+  index: -1
+star
+  rotate: false
+  xy: 2, 158
+  size: 210, 127
+  orig: 213, 129
+  offset: 1, 1
+  index: -1
+star-1
+  rotate: false
+  xy: 83, 416
+  size: 50, 24
+  orig: 75, 30
+  offset: 1, 3
+  index: -1

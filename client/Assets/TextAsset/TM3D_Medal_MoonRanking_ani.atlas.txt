@@ -1,0 +1,76 @@
+
+TM3D_Medal_MoonRanking_ani.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cricle
+  rotate: false
+  xy: 2, 299
+  size: 200, 210
+  orig: 200, 210
+  offset: 0, 0
+  index: -1
+dai01
+  rotate: false
+  xy: 239, 49
+  size: 76, 78
+  orig: 85, 79
+  offset: 5, 0
+  index: -1
+dai02
+  rotate: false
+  xy: 192, 129
+  size: 47, 65
+  orig: 53, 65
+  offset: 3, 0
+  index: -1
+gem
+  rotate: false
+  xy: 55, 128
+  size: 135, 169
+  orig: 137, 171
+  offset: 1, 1
+  index: -1
+guan
+  rotate: true
+  xy: 2, 2
+  size: 117, 73
+  orig: 117, 74
+  offset: 0, 1
+  index: -1
+hudie
+  rotate: true
+  xy: 2, 121
+  size: 176, 51
+  orig: 179, 84
+  offset: 1, 0
+  index: -1
+hudie01
+  rotate: false
+  xy: 241, 130
+  size: 74, 64
+  orig: 82, 78
+  offset: 8, 9
+  index: -1
+line
+  rotate: true
+  xy: 192, 196
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 239, 14
+  size: 32, 33
+  orig: 34, 33
+  offset: 1, 0
+  index: -1
+sui
+  rotate: true
+  xy: 77, 3
+  size: 123, 160
+  orig: 123, 166
+  offset: 0, 0
+  index: -1

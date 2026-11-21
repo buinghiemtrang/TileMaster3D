@@ -1,0 +1,41 @@
+
+TM3D_peakshowdown_icon_ani.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crown
+  rotate: false
+  xy: 2, 41
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 115, 121
+  size: 121, 65
+  orig: 125, 66
+  offset: 2, 1
+  index: -1
+mh_tex_mask_14
+  rotate: false
+  xy: 108, 2
+  size: 128, 117
+  orig: 128, 128
+  offset: 0, 3
+  index: -1
+star
+  rotate: true
+  xy: 53, 127
+  size: 59, 60
+  orig: 61, 62
+  offset: 1, 1
+  index: -1
+star2
+  rotate: false
+  xy: 2, 137
+  size: 49, 49
+  orig: 64, 64
+  offset: 8, 7
+  index: -1

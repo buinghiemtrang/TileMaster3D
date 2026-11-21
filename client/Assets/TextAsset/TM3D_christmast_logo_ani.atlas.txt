@@ -1,0 +1,167 @@
+
+TM3D_christmast_logo_ani.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3d
+  rotate: false
+  xy: 321, 419
+  size: 115, 109
+  orig: 117, 112
+  offset: 1, 2
+  index: -1
+E
+  rotate: false
+  xy: 394, 71
+  size: 101, 134
+  orig: 103, 136
+  offset: 1, 1
+  index: -1
+I
+  rotate: true
+  xy: 419, 355
+  size: 62, 138
+  orig: 64, 140
+  offset: 1, 1
+  index: -1
+L
+  rotate: false
+  xy: 285, 207
+  size: 129, 138
+  orig: 131, 140
+  offset: 1, 1
+  index: -1
+T
+  rotate: false
+  xy: 285, 69
+  size: 107, 136
+  orig: 109, 138
+  offset: 1, 1
+  index: -1
+bg-light
+  rotate: true
+  xy: 142, 347
+  size: 181, 177
+  orig: 181, 198
+  offset: 0, 15
+  index: -1
+blue-bulb
+  rotate: true
+  xy: 520, 419
+  size: 35, 50
+  orig: 37, 52
+  offset: 1, 1
+  index: -1
+blue-light
+  rotate: false
+  xy: 497, 143
+  size: 61, 62
+  orig: 74, 77
+  offset: 6, 7
+  index: -1
+bord
+  rotate: true
+  xy: 613, 163
+  size: 549, 249
+  orig: 553, 253
+  offset: 3, 3
+  index: -1
+cap
+  rotate: false
+  xy: 416, 262
+  size: 128, 85
+  orig: 135, 91
+  offset: 4, 3
+  index: -1
+cherry
+  rotate: true
+  xy: 438, 422
+  size: 26, 28
+  orig: 28, 30
+  offset: 1, 1
+  index: -1
+fawn
+  rotate: false
+  xy: 546, 209
+  size: 47, 82
+  orig: 50, 84
+  offset: 2, 1
+  index: -1
+green-bulb
+  rotate: false
+  xy: 507, 212
+  size: 35, 48
+  orig: 37, 50
+  offset: 1, 1
+  index: -1
+green-glow
+  rotate: false
+  xy: 546, 293
+  size: 60, 60
+  orig: 72, 73
+  offset: 6, 6
+  index: -1
+leaf
+  rotate: false
+  xy: 142, 33
+  size: 141, 312
+  orig: 147, 314
+  offset: 4, 2
+  index: -1
+leaf-1
+  rotate: true
+  xy: 321, 349
+  size: 68, 96
+  orig: 73, 102
+  offset: 2, 3
+  index: -1
+leaf-2
+  rotate: false
+  xy: 438, 450
+  size: 80, 78
+  orig: 85, 85
+  offset: 3, 3
+  index: -1
+leaf-3
+  rotate: false
+  xy: 416, 207
+  size: 89, 53
+  orig: 89, 55
+  offset: 0, 1
+  index: -1
+leaf-down
+  rotate: false
+  xy: 2, 530
+  size: 609, 182
+  orig: 614, 183
+  offset: 5, 1
+  index: -1
+master
+  rotate: true
+  xy: 2, 2
+  size: 526, 138
+  orig: 528, 140
+  offset: 1, 1
+  index: -1
+red-bulb
+  rotate: false
+  xy: 559, 361
+  size: 40, 56
+  orig: 43, 59
+  offset: 2, 2
+  index: -1
+red-glow
+  rotate: false
+  xy: 520, 456
+  size: 72, 72
+  orig: 80, 80
+  offset: 5, 4
+  index: -1
+star
+  rotate: false
+  xy: 560, 119
+  size: 34, 42
+  orig: 41, 45
+  offset: 1, 2
+  index: -1

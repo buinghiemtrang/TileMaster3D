@@ -1,0 +1,229 @@
+[
+{
+"Ranking": 1, 
+"RankType": 1, 
+"Reward": [
+[
+0, 
+500
+], 
+[
+10, 
+1
+], 
+[
+11, 
+1
+], 
+[
+12, 
+1
+], 
+[
+21, 
+1
+]
+], 
+"Id": 1, 
+"ChestSkin": "3"
+}, 
+{
+"Ranking": 5, 
+"RankType": 1, 
+"Reward": [
+[
+0, 
+200
+], 
+[
+10, 
+1
+], 
+[
+11, 
+1
+]
+], 
+"Id": 2, 
+"ChestSkin": "2"
+}, 
+{
+"Ranking": 10, 
+"RankType": 1, 
+"Reward": [
+[
+0, 
+100
+], 
+[
+11, 
+1
+]
+], 
+"Id": 3, 
+"ChestSkin": "1"
+}, 
+{
+"Ranking": 1, 
+"RankType": 2, 
+"Reward": [
+[
+0, 
+100
+], 
+[
+10, 
+1
+], 
+[
+11, 
+1
+], 
+[
+21, 
+1
+]
+], 
+"Id": 4, 
+"ChestSkin": "3"
+}, 
+{
+"Ranking": 3, 
+"RankType": 2, 
+"Reward": [
+[
+0, 
+70
+], 
+[
+10, 
+1
+]
+], 
+"Id": 5, 
+"ChestSkin": "2"
+}, 
+{
+"Ranking": 5, 
+"RankType": 2, 
+"Reward": [
+[
+0, 
+50
+]
+], 
+"Id": 6, 
+"ChestSkin": "1"
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}, 
+{
+"ChestSkin": ""
+}
+]

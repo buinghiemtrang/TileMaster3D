@@ -1,0 +1,252 @@
+[
+{
+"Rewards": [
+[
+10, 
+3
+]
+], 
+"TypeUpgrade": -1, 
+"CoinPrice": 120, 
+"Priority": 3, 
+"PropCount": 1, 
+"BuyCountLimit": -1, 
+"PropId": 10, 
+"Type": -1, 
+"Id": 1, 
+"BundleId": -1
+}, 
+{
+"Rewards": [
+[
+11, 
+5
+]
+], 
+"TypeUpgrade": -1, 
+"CoinPrice": 120, 
+"Priority": 2, 
+"PropCount": 1, 
+"BuyCountLimit": -1, 
+"PropId": 11, 
+"Type": -1, 
+"Id": 2, 
+"BundleId": -1
+}, 
+{
+"Rewards": [
+[
+12, 
+5
+]
+], 
+"TypeUpgrade": -1, 
+"CoinPrice": 120, 
+"Priority": 4, 
+"PropCount": 1, 
+"BuyCountLimit": -1, 
+"PropId": 12, 
+"Type": -1, 
+"Id": 3, 
+"BundleId": -1
+}, 
+{
+"Rewards": [
+[
+14, 
+5
+]
+], 
+"TypeUpgrade": -1, 
+"CoinPrice": 120, 
+"Priority": 5, 
+"PropCount": 1, 
+"BuyCountLimit": -1, 
+"PropId": 14, 
+"Type": -1, 
+"Id": 4, 
+"BundleId": -1
+}, 
+{
+"Rewards": [
+[
+15, 
+5
+]
+], 
+"TypeUpgrade": -1, 
+"CoinPrice": 120, 
+"Priority": 1, 
+"PropCount": 1, 
+"BuyCountLimit": -1, 
+"PropId": 15, 
+"Type": -1, 
+"Id": 5, 
+"BundleId": -1
+}, 
+{
+"TypeUpgrade": 2, 
+"CoinPrice": -1, 
+"Priority": 3, 
+"PropCount": 1, 
+"BuyCountLimit": 1, 
+"PropId": 10, 
+"Type": 1, 
+"Id": 6, 
+"BundleId": 1001
+}, 
+{
+"TypeUpgrade": 2, 
+"CoinPrice": -1, 
+"Priority": 2, 
+"PropCount": 1, 
+"BuyCountLimit": 1, 
+"PropId": 11, 
+"Type": 1, 
+"Id": 7, 
+"BundleId": 1007
+}, 
+{
+"TypeUpgrade": 2, 
+"CoinPrice": -1, 
+"Priority": 4, 
+"PropCount": 1, 
+"BuyCountLimit": 1, 
+"PropId": 12, 
+"Type": 1, 
+"Id": 8, 
+"BundleId": 1013
+}, 
+{
+"TypeUpgrade": 2, 
+"CoinPrice": -1, 
+"Priority": 5, 
+"PropCount": 1, 
+"BuyCountLimit": 1, 
+"PropId": 14, 
+"Type": 1, 
+"Id": 9, 
+"BundleId": 1004
+}, 
+{
+"TypeUpgrade": 2, 
+"CoinPrice": -1, 
+"Priority": 1, 
+"PropCount": 1, 
+"BuyCountLimit": 1, 
+"PropId": 15, 
+"Type": 1, 
+"Id": 10, 
+"BundleId": 1010
+}, 
+{
+"TypeUpgrade": 3, 
+"CoinPrice": -1, 
+"Priority": 3, 
+"PropCount": 1, 
+"BuyCountLimit": 2, 
+"PropId": 10, 
+"Type": 2, 
+"Id": 11, 
+"BundleId": 1002
+}, 
+{
+"TypeUpgrade": 3, 
+"CoinPrice": -1, 
+"Priority": 2, 
+"PropCount": 1, 
+"BuyCountLimit": 2, 
+"PropId": 11, 
+"Type": 2, 
+"Id": 12, 
+"BundleId": 1008
+}, 
+{
+"TypeUpgrade": 3, 
+"CoinPrice": -1, 
+"Priority": 4, 
+"PropCount": 1, 
+"BuyCountLimit": 2, 
+"PropId": 12, 
+"Type": 2, 
+"Id": 13, 
+"BundleId": 1014
+}, 
+{
+"TypeUpgrade": 3, 
+"CoinPrice": -1, 
+"Priority": 5, 
+"PropCount": 1, 
+"BuyCountLimit": 2, 
+"PropId": 14, 
+"Type": 2, 
+"Id": 14, 
+"BundleId": 1005
+}, 
+{
+"TypeUpgrade": 3, 
+"CoinPrice": -1, 
+"Priority": 1, 
+"PropCount": 1, 
+"BuyCountLimit": 2, 
+"PropId": 15, 
+"Type": 2, 
+"Id": 15, 
+"BundleId": 1011
+}, 
+{
+"TypeUpgrade": 0, 
+"CoinPrice": -1, 
+"Priority": 3, 
+"PropCount": 1, 
+"BuyCountLimit": 3, 
+"PropId": 10, 
+"Type": 3, 
+"Id": 16, 
+"BundleId": 1003
+}, 
+{
+"TypeUpgrade": 0, 
+"CoinPrice": -1, 
+"Priority": 2, 
+"PropCount": 1, 
+"BuyCountLimit": 3, 
+"PropId": 11, 
+"Type": 3, 
+"Id": 17, 
+"BundleId": 1009
+}, 
+{
+"TypeUpgrade": 0, 
+"CoinPrice": -1, 
+"Priority": 4, 
+"PropCount": 1, 
+"BuyCountLimit": 3, 
+"PropId": 12, 
+"Type": 3, 
+"Id": 18, 
+"BundleId": 1015
+}, 
+{
+"TypeUpgrade": 0, 
+"CoinPrice": -1, 
+"Priority": 5, 
+"PropCount": 1, 
+"BuyCountLimit": 3, 
+"PropId": 14, 
+"Type": 3, 
+"Id": 19, 
+"BundleId": 1006
+}, 
+{
+"TypeUpgrade": 0, 
+"CoinPrice": -1, 
+"Priority": 1, 
+"PropCount": 1, 
+"BuyCountLimit": 3, 
+"PropId": 15, 
+"Type": 3, 
+"Id": 20, 
+"BundleId": 1012
+}
+]

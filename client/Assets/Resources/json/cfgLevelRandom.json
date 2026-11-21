@@ -1,0 +1,658 @@
+[
+{
+"ModelComplexity": 1.0, 
+"Min": 28, 
+"Max": 49, 
+"GroupId": 1, 
+"GroupIds": [
+9999
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 1
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 8, 
+"Max": 14, 
+"GroupId": 1, 
+"GroupIds": [
+9201, 
+9202, 
+9203, 
+9204, 
+9205, 
+9206, 
+9207, 
+9208, 
+9209, 
+9210, 
+9211, 
+9212, 
+9213, 
+9214, 
+9215, 
+9216, 
+9217, 
+9218, 
+9301, 
+9302, 
+9303, 
+9304, 
+9305, 
+9307, 
+9309, 
+9310, 
+9311, 
+9312, 
+9313, 
+9314, 
+9315, 
+9316, 
+9317, 
+9318, 
+9319
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 2
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 4, 
+"Max": 7, 
+"GroupId": 1, 
+"GroupIds": [
+10
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 3
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 0, 
+"Max": 3, 
+"GroupId": 1, 
+"GroupIds": [
+50
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 4
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 19, 
+"Max": 25, 
+"GroupId": 1, 
+"GroupIds": [
+9999
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 5
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 5, 
+"Max": 7, 
+"GroupId": 1, 
+"GroupIds": [
+9201, 
+9202, 
+9203, 
+9204, 
+9205, 
+9206, 
+9207, 
+9208, 
+9209, 
+9210, 
+9211, 
+9212, 
+9213, 
+9214, 
+9215, 
+9216, 
+9217, 
+9218, 
+9301, 
+9302, 
+9303, 
+9304, 
+9305, 
+9307, 
+9309, 
+9310, 
+9311, 
+9312, 
+9313, 
+9314, 
+9315, 
+9316, 
+9317, 
+9318, 
+9319
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 6
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 2, 
+"Max": 3, 
+"GroupId": 1, 
+"GroupIds": [
+9999
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 7
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 0, 
+"Max": 3, 
+"GroupId": 1, 
+"GroupIds": [
+50
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 8
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 22, 
+"Max": 38, 
+"GroupId": 2, 
+"GroupIds": [
+9999
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 9
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 12, 
+"Max": 21, 
+"GroupId": 2, 
+"GroupIds": [
+9201, 
+9202, 
+9203, 
+9204, 
+9205, 
+9206, 
+9207, 
+9208, 
+9209, 
+9210, 
+9211, 
+9212, 
+9213, 
+9214, 
+9215, 
+9216, 
+9217, 
+9218, 
+9301, 
+9302, 
+9303, 
+9304, 
+9305, 
+9307, 
+9309, 
+9310, 
+9311, 
+9312, 
+9313, 
+9314, 
+9315, 
+9316, 
+9317, 
+9318, 
+9319
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 10
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 6, 
+"Max": 10, 
+"GroupId": 2, 
+"GroupIds": [
+10
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 11
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 0, 
+"Max": 3, 
+"GroupId": 2, 
+"GroupIds": [
+50
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 12
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 15, 
+"Max": 19, 
+"GroupId": 2, 
+"GroupIds": [
+9999
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 13
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 8, 
+"Max": 10, 
+"GroupId": 2, 
+"GroupIds": [
+9201, 
+9202, 
+9203, 
+9204, 
+9205, 
+9206, 
+9207, 
+9208, 
+9209, 
+9210, 
+9211, 
+9212, 
+9213, 
+9214, 
+9215, 
+9216, 
+9217, 
+9218, 
+9301, 
+9302, 
+9303, 
+9304, 
+9305, 
+9307, 
+9309, 
+9310, 
+9311, 
+9312, 
+9313, 
+9314, 
+9315, 
+9316, 
+9317, 
+9318, 
+9319
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 14
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 4, 
+"Max": 5, 
+"GroupId": 2, 
+"GroupIds": [
+10
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 15
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 0, 
+"Max": 3, 
+"GroupId": 2, 
+"GroupIds": [
+50
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 16
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 16, 
+"Max": 28, 
+"GroupId": 3, 
+"GroupIds": [
+9999
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 17
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 16, 
+"Max": 28, 
+"GroupId": 3, 
+"GroupIds": [
+9201, 
+9202, 
+9203, 
+9204, 
+9205, 
+9206, 
+9207, 
+9208, 
+9209, 
+9210, 
+9211, 
+9212, 
+9213, 
+9214, 
+9215, 
+9216, 
+9217, 
+9218, 
+9301, 
+9302, 
+9303, 
+9304, 
+9305, 
+9307, 
+9309, 
+9310, 
+9311, 
+9312, 
+9313, 
+9314, 
+9315, 
+9316, 
+9317, 
+9318, 
+9319
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 18
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 8, 
+"Max": 14, 
+"GroupId": 3, 
+"GroupIds": [
+10
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 19
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 0, 
+"Max": 3, 
+"GroupId": 3, 
+"GroupIds": [
+50
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 20
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 11, 
+"Max": 14, 
+"GroupId": 3, 
+"GroupIds": [
+9999
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 21
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 11, 
+"Max": 14, 
+"GroupId": 3, 
+"GroupIds": [
+9201, 
+9202, 
+9203, 
+9204, 
+9205, 
+9206, 
+9207, 
+9208, 
+9209, 
+9210, 
+9211, 
+9212, 
+9213, 
+9214, 
+9215, 
+9216, 
+9217, 
+9218, 
+9301, 
+9302, 
+9303, 
+9304, 
+9305, 
+9307, 
+9309, 
+9310, 
+9311, 
+9312, 
+9313, 
+9314, 
+9315, 
+9316, 
+9317, 
+9318, 
+9319
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 22
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 5, 
+"Max": 7, 
+"GroupId": 3, 
+"GroupIds": [
+10
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 23
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 0, 
+"Max": 3, 
+"GroupId": 3, 
+"GroupIds": [
+50
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 24
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 8, 
+"Max": 14, 
+"GroupId": 4, 
+"GroupIds": [
+9999
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 25
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 24, 
+"Max": 42, 
+"GroupId": 4, 
+"GroupIds": [
+9201, 
+9202, 
+9203, 
+9204, 
+9205, 
+9206, 
+9207, 
+9208, 
+9209, 
+9210, 
+9211, 
+9212, 
+9213, 
+9214, 
+9215, 
+9216, 
+9217, 
+9218, 
+9301, 
+9302, 
+9303, 
+9304, 
+9305, 
+9307, 
+9309, 
+9310, 
+9311, 
+9312, 
+9313, 
+9314, 
+9315, 
+9316, 
+9317, 
+9318, 
+9319
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 26
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 8, 
+"Max": 14, 
+"GroupId": 4, 
+"GroupIds": [
+10
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 27
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 0, 
+"Max": 3, 
+"GroupId": 4, 
+"GroupIds": [
+50
+], 
+"RandomGroupNumber": 1, 
+"Type": 1, 
+"Id": 28
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 5, 
+"Max": 7, 
+"GroupId": 4, 
+"GroupIds": [
+9999
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 29
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 16, 
+"Max": 21, 
+"GroupId": 4, 
+"GroupIds": [
+9201, 
+9202, 
+9203, 
+9204, 
+9205, 
+9206, 
+9207, 
+9208, 
+9209, 
+9210, 
+9211, 
+9212, 
+9213, 
+9214, 
+9215, 
+9216, 
+9217, 
+9218, 
+9301, 
+9302, 
+9303, 
+9304, 
+9305, 
+9307, 
+9309, 
+9310, 
+9311, 
+9312, 
+9313, 
+9314, 
+9315, 
+9316, 
+9317, 
+9318, 
+9319
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 30
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 5, 
+"Max": 7, 
+"GroupId": 4, 
+"GroupIds": [
+10
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 31
+}, 
+{
+"ModelComplexity": 1.0, 
+"Min": 0, 
+"Max": 3, 
+"GroupId": 4, 
+"GroupIds": [
+50
+], 
+"RandomGroupNumber": 1, 
+"Type": 2, 
+"Id": 32
+}
+]

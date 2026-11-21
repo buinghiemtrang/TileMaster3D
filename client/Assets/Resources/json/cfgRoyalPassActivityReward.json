@@ -1,0 +1,744 @@
+[
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"paidReward": [
+[
+24, 
+8
+], 
+[
+23, 
+160
+], 
+[
+0, 
+50
+]
+], 
+"grade": 0, 
+"freeChestIcon": -1, 
+"exp": 1, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 1
+}, 
+{
+"freeReward": [
+[
+0, 
+50
+]
+], 
+"paidReward": [
+[
+14, 
+1
+]
+], 
+"grade": 1, 
+"freeChestIcon": -1, 
+"exp": 2, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 2
+}, 
+{
+"freeReward": [
+[
+15, 
+1
+]
+], 
+"paidReward": [
+[
+0, 
+200
+]
+], 
+"grade": 2, 
+"freeChestIcon": -1, 
+"exp": 3, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 3
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"paidReward": [
+[
+10, 
+1
+]
+], 
+"grade": 3, 
+"freeChestIcon": -1, 
+"exp": 5, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 4
+}, 
+{
+"freeReward": [
+[
+0, 
+50
+]
+], 
+"paidReward": [
+[
+11, 
+1
+]
+], 
+"grade": 4, 
+"freeChestIcon": -1, 
+"exp": 5, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 5
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"paidReward": [
+[
+21, 
+1
+], 
+[
+15, 
+1
+], 
+[
+14, 
+1
+]
+], 
+"grade": 5, 
+"freeChestIcon": -1, 
+"exp": 5, 
+"paidChestIcon": 3, 
+"type": 2, 
+"id": 6
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"paidReward": [
+[
+12, 
+1
+]
+], 
+"grade": 6, 
+"freeChestIcon": -1, 
+"exp": 5, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 7
+}, 
+{
+"freeReward": [
+[
+15, 
+1
+]
+], 
+"paidReward": [
+[
+15, 
+1
+]
+], 
+"grade": 7, 
+"freeChestIcon": -1, 
+"exp": 8, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 8
+}, 
+{
+"freeReward": [
+[
+0, 
+50
+]
+], 
+"paidReward": [
+[
+14, 
+1
+]
+], 
+"grade": 8, 
+"freeChestIcon": -1, 
+"exp": 8, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 9
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"paidReward": [
+[
+21, 
+1
+]
+], 
+"grade": 9, 
+"freeChestIcon": -1, 
+"exp": 8, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 10
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"paidReward": [
+[
+0, 
+200
+], 
+[
+10, 
+1
+], 
+[
+11, 
+1
+], 
+[
+12, 
+1
+]
+], 
+"grade": 10, 
+"freeChestIcon": -1, 
+"exp": 8, 
+"paidChestIcon": 4, 
+"type": 2, 
+"id": 11
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"paidReward": [
+[
+12, 
+1
+]
+], 
+"grade": 11, 
+"freeChestIcon": -1, 
+"exp": 8, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 12
+}, 
+{
+"freeReward": [
+[
+0, 
+50
+]
+], 
+"paidReward": [
+[
+10, 
+1
+]
+], 
+"grade": 12, 
+"freeChestIcon": -1, 
+"exp": 10, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 13
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"paidReward": [
+[
+0, 
+300
+]
+], 
+"grade": 13, 
+"freeChestIcon": -1, 
+"exp": 10, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 14
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"paidReward": [
+[
+14, 
+2
+]
+], 
+"grade": 14, 
+"freeChestIcon": -1, 
+"exp": 10, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 15
+}, 
+{
+"freeReward": [
+[
+15, 
+1
+]
+], 
+"paidReward": [
+[
+0, 
+300
+], 
+[
+21, 
+1
+], 
+[
+15, 
+2
+], 
+[
+11, 
+1
+]
+], 
+"grade": 15, 
+"freeChestIcon": -1, 
+"exp": 10, 
+"paidChestIcon": 5, 
+"type": 2, 
+"id": 16
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"paidReward": [
+[
+15, 
+2
+]
+], 
+"grade": 16, 
+"freeChestIcon": -1, 
+"exp": 10, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 17
+}, 
+{
+"freeReward": [
+[
+11, 
+1
+]
+], 
+"paidReward": [
+[
+11, 
+2
+]
+], 
+"grade": 17, 
+"freeChestIcon": -1, 
+"exp": 10, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 18
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"paidReward": [
+[
+14, 
+2
+]
+], 
+"grade": 18, 
+"freeChestIcon": -1, 
+"exp": 10, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 19
+}, 
+{
+"freeReward": [
+[
+0, 
+50
+]
+], 
+"paidReward": [
+[
+10, 
+2
+]
+], 
+"grade": 19, 
+"freeChestIcon": -1, 
+"exp": 12, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 20
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"paidReward": [
+[
+0, 
+500
+], 
+[
+10, 
+2
+], 
+[
+11, 
+2
+], 
+[
+12, 
+2
+]
+], 
+"grade": 20, 
+"freeChestIcon": -1, 
+"exp": 12, 
+"paidChestIcon": 6, 
+"type": 2, 
+"id": 21
+}, 
+{
+"freeReward": [
+[
+15, 
+1
+]
+], 
+"paidReward": [
+[
+12, 
+1
+]
+], 
+"grade": 21, 
+"freeChestIcon": -1, 
+"exp": 12, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 22
+}, 
+{
+"freeReward": [
+[
+11, 
+1
+]
+], 
+"paidReward": [
+[
+14, 
+2
+]
+], 
+"grade": 22, 
+"freeChestIcon": -1, 
+"exp": 12, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 23
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"paidReward": [
+[
+0, 
+500
+]
+], 
+"grade": 23, 
+"freeChestIcon": -1, 
+"exp": 12, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 24
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"paidReward": [
+[
+15, 
+2
+]
+], 
+"grade": 24, 
+"freeChestIcon": -1, 
+"exp": 15, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 25
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"paidReward": [
+[
+21, 
+2
+], 
+[
+15, 
+2
+], 
+[
+11, 
+2
+], 
+[
+10, 
+2
+]
+], 
+"grade": 25, 
+"freeChestIcon": -1, 
+"exp": 15, 
+"paidChestIcon": 7, 
+"type": 2, 
+"id": 26
+}, 
+{
+"freeReward": [
+[
+11, 
+1
+]
+], 
+"paidReward": [
+[
+11, 
+2
+]
+], 
+"grade": 26, 
+"freeChestIcon": -1, 
+"exp": 15, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 27
+}, 
+{
+"freeReward": [
+[
+15, 
+1
+]
+], 
+"paidReward": [
+[
+10, 
+1
+]
+], 
+"grade": 27, 
+"freeChestIcon": -1, 
+"exp": 15, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 28
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"paidReward": [
+[
+0, 
+500
+]
+], 
+"grade": 28, 
+"freeChestIcon": -1, 
+"exp": 15, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 29
+}, 
+{
+"freeReward": [
+[
+0, 
+50
+], 
+[
+15, 
+1
+]
+], 
+"paidReward": [
+[
+10, 
+1
+]
+], 
+"grade": 29, 
+"freeChestIcon": 1, 
+"exp": 15, 
+"paidChestIcon": -1, 
+"type": 2, 
+"id": 30
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+], 
+[
+12, 
+1
+], 
+[
+23, 
+158
+]
+], 
+"paidReward": [
+[
+10, 
+3
+], 
+[
+11, 
+3
+], 
+[
+14, 
+3
+], 
+[
+15, 
+3
+]
+], 
+"grade": 30, 
+"freeChestIcon": 2, 
+"exp": 0, 
+"paidChestIcon": 8, 
+"type": 2, 
+"id": 31
+}, 
+{
+"paidReward": [
+[
+0, 
+10000
+], 
+[
+23, 
+159
+], 
+[
+15, 
+1
+], 
+[
+10, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+]
+], 
+"grade": 30, 
+"freeChestIcon": -1, 
+"exp": 0, 
+"paidChestIcon": -1, 
+"type": 3, 
+"id": 32
+}
+]

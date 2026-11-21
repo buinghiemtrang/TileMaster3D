@@ -1,0 +1,161 @@
+[
+{
+"SingleLevel_AdCountLimit": -1, 
+"SingleLevel_FailCountLimit": 1, 
+"SingleLevel_PreEnterAdCountLimit": 1, 
+"IsPaid": 1, 
+"UnlockPlayDaysRange": [
+0, 
+-1
+], 
+"IsOpen": 0, 
+"CD_GearAdCount": [
+2, 
+2
+], 
+"id": 1, 
+"Priority": 1, 
+"CD_GearCD": [
+30, 
+30
+], 
+"LookCountDailyMax": -1, 
+"PointType": 1, 
+"UnlockLevel": 2, 
+"CooldownType": 2
+}, 
+{
+"SingleLevel_AdCountLimit": -1, 
+"SingleLevel_FailCountLimit": 1, 
+"SingleLevel_PreEnterAdCountLimit": 1, 
+"IsPaid": 1, 
+"UnlockPlayDaysRange": [
+0, 
+5
+], 
+"IsOpen": 0, 
+"CD_GearAdCount": [
+2, 
+2
+], 
+"id": 2, 
+"Priority": 2, 
+"CD_GearCD": [
+30, 
+30
+], 
+"LookCountDailyMax": 0, 
+"PointType": 1, 
+"UnlockLevel": 2, 
+"CooldownType": 2
+}, 
+{
+"SingleLevel_AdCountLimit": -1, 
+"SingleLevel_FailCountLimit": 1, 
+"SingleLevel_PreEnterAdCountLimit": 1, 
+"IsPaid": 1, 
+"UnlockPlayDaysRange": [
+6, 
+-1
+], 
+"IsOpen": 0, 
+"CD_GearAdCount": [
+2, 
+2
+], 
+"id": 3, 
+"Priority": 3, 
+"CD_GearCD": [
+30, 
+30
+], 
+"LookCountDailyMax": -1, 
+"PointType": 1, 
+"UnlockLevel": 2, 
+"CooldownType": 2
+}, 
+{
+"SingleLevel_AdCountLimit": 1, 
+"SingleLevel_FailCountLimit": 1, 
+"SingleLevel_PreEnterAdCountLimit": 1, 
+"IsPaid": -1, 
+"IsOpen": 0, 
+"CD_GearAdCount": [
+3
+], 
+"id": 4, 
+"Priority": 1, 
+"CD_GearCD": [
+60
+], 
+"LookCountDailyMax": -1, 
+"PointType": 2, 
+"UnlockLevel": 3, 
+"CooldownType": 1
+}, 
+{
+"SingleLevel_AdCountLimit": 5, 
+"SingleLevel_FailCountLimit": 10, 
+"SingleLevel_PreEnterAdCountLimit": 1, 
+"IsPaid": -1, 
+"IsOpen": 0, 
+"CD_GearAdCount": [
+0
+], 
+"id": 5, 
+"Priority": 1, 
+"CD_GearCD": [
+-1
+], 
+"LookCountDailyMax": 4, 
+"PointType": 3, 
+"UnlockLevel": 5, 
+"CooldownType": 1
+}, 
+{
+"SingleLevel_AdCountLimit": 1, 
+"SingleLevel_FailCountLimit": 2, 
+"SingleLevel_PreEnterAdCountLimit": 1, 
+"IsPaid": -1, 
+"IsOpen": 0, 
+"CD_GearAdCount": [
+2, 
+2, 
+1
+], 
+"id": 6, 
+"Priority": 1, 
+"CD_GearCD": [
+30, 
+60, 
+36000
+], 
+"LookCountDailyMax": -1, 
+"PointType": 4, 
+"UnlockLevel": 7, 
+"CooldownType": 1
+}, 
+{
+"SingleLevel_AdCountLimit": 1, 
+"SingleLevel_FailCountLimit": 2, 
+"SingleLevel_PreEnterAdCountLimit": 1, 
+"IsPaid": -1, 
+"IsOpen": 0, 
+"CD_GearAdCount": [
+2, 
+2, 
+1
+], 
+"id": 7, 
+"Priority": 1, 
+"CD_GearCD": [
+30, 
+60, 
+36000
+], 
+"LookCountDailyMax": -1, 
+"PointType": 5, 
+"UnlockLevel": 7, 
+"CooldownType": 1
+}
+]

@@ -1,0 +1,41 @@
+
+TM3D_Medal_Halloween_05_ani.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Medal03-bg
+  rotate: false
+  xy: 2, 24
+  size: 184, 189
+  orig: 184, 190
+  offset: 0, 1
+  index: -1
+Medal03-cloth
+  rotate: true
+  xy: 188, 10
+  size: 203, 171
+  orig: 203, 171
+  offset: 0, 0
+  index: -1
+Medal03-maozi
+  rotate: true
+  xy: 361, 4
+  size: 93, 87
+  orig: 94, 88
+  offset: 0, 1
+  index: -1
+Medal03-tou
+  rotate: false
+  xy: 361, 99
+  size: 144, 114
+  orig: 144, 114
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 75, 20
+  orig: 76, 20
+  offset: 0, 0
+  index: -1

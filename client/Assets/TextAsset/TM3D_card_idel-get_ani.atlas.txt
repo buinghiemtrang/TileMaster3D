@@ -1,0 +1,83 @@
+
+TM3D_card_idel-get_ani.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 256, 315
+  orig: 256, 315
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 337, 361
+  size: 256, 315
+  orig: 256, 315
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 596, 678
+  size: 256, 315
+  orig: 256, 315
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 595, 361
+  size: 256, 315
+  orig: 256, 315
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 260, 2
+  size: 256, 315
+  orig: 256, 315
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 518, 44
+  size: 256, 315
+  orig: 256, 315
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 337, 678
+  size: 257, 315
+  orig: 272, 323
+  offset: 7, 4
+  index: -1
+glow
+  rotate: false
+  xy: 776, 82
+  size: 235, 277
+  orig: 235, 283
+  offset: 0, 6
+  index: -1
+light
+  rotate: false
+  xy: 2, 657
+  size: 333, 336
+  orig: 365, 370
+  offset: 16, 17
+  index: -1
+light-mask
+  rotate: false
+  xy: 2, 319
+  size: 333, 336
+  orig: 365, 370
+  offset: 16, 17
+  index: -1
+star-1
+  rotate: false
+  xy: 854, 941
+  size: 53, 52
+  orig: 54, 54
+  offset: 1, 0
+  index: -1

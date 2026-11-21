@@ -1,0 +1,195 @@
+
+TM3D_Medal_TH_02_ani.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 817, 702
+  size: 184, 183
+  orig: 186, 185
+  offset: 1, 1
+  index: -1
+Crown
+  rotate: true
+  xy: 817, 54
+  size: 108, 58
+  orig: 110, 60
+  offset: 1, 1
+  index: -1
+Diamond
+  rotate: true
+  xy: 891, 328
+  size: 41, 35
+  orig: 43, 37
+  offset: 1, 1
+  index: -1
+L
+  rotate: true
+  xy: 877, 140
+  size: 22, 106
+  orig: 24, 108
+  offset: 1, 1
+  index: -1
+L-gem
+  rotate: true
+  xy: 971, 82
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+L-light-gem
+  rotate: true
+  xy: 891, 270
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+L-wing
+  rotate: false
+  xy: 817, 473
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+L-wing02
+  rotate: true
+  xy: 817, 164
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+R
+  rotate: true
+  xy: 877, 56
+  size: 22, 106
+  orig: 24, 108
+  offset: 1, 1
+  index: -1
+R-gem
+  rotate: true
+  xy: 927, 318
+  size: 8, 11
+  orig: 10, 13
+  offset: 1, 1
+  index: -1
+R-light-gem
+  rotate: true
+  xy: 908, 312
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+R-wing
+  rotate: false
+  xy: 817, 371
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+R-wing01
+  rotate: true
+  xy: 817, 267
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: -1
+cup
+  rotate: true
+  xy: 817, 575
+  size: 125, 103
+  orig: 127, 105
+  offset: 1, 1
+  index: -1
+gem-1
+  rotate: true
+  xy: 941, 81
+  size: 9, 14
+  orig: 11, 16
+  offset: 1, 1
+  index: -1
+gem-2
+  rotate: true
+  xy: 908, 298
+  size: 12, 18
+  orig: 14, 20
+  offset: 1, 1
+  index: -1
+gem-3
+  rotate: true
+  xy: 957, 81
+  size: 9, 12
+  orig: 11, 14
+  offset: 1, 1
+  index: -1
+hudie
+  rotate: false
+  xy: 941, 92
+  size: 72, 46
+  orig: 74, 48
+  offset: 1, 1
+  index: -1
+light- Diamond
+  rotate: false
+  xy: 985, 56
+  size: 35, 34
+  orig: 37, 36
+  offset: 1, 1
+  index: -1
+light-1
+  rotate: false
+  xy: 2, 12
+  size: 813, 874
+  orig: 815, 876
+  offset: 1, 1
+  index: -1
+light-Diamond
+  rotate: false
+  xy: 877, 80
+  size: 62, 58
+  orig: 64, 60
+  offset: 1, 1
+  index: -1
+light-gem-1
+  rotate: false
+  xy: 891, 307
+  size: 15, 19
+  orig: 17, 21
+  offset: 1, 1
+  index: -1
+light-gem-2
+  rotate: false
+  xy: 996, 2
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+light-gem-3
+  rotate: false
+  xy: 891, 286
+  size: 15, 19
+  orig: 17, 21
+  offset: 1, 1
+  index: -1
+red
+  rotate: false
+  xy: 996, 28
+  size: 25, 26
+  orig: 27, 28
+  offset: 1, 1
+  index: -1
+up
+  rotate: false
+  xy: 817, 11
+  size: 126, 41
+  orig: 128, 43
+  offset: 1, 1
+  index: -1
+xing
+  rotate: false
+  xy: 945, 3
+  size: 49, 51
+  orig: 51, 53
+  offset: 1, 1
+  index: -1

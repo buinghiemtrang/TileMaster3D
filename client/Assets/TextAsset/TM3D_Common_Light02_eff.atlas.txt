@@ -1,0 +1,48 @@
+
+TM3D_Common_Light02_eff.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 2, 2
+  size: 306, 150
+  orig: 308, 152
+  offset: 1, 1
+  index: -1
+box-move
+  rotate: false
+  xy: 313, 386
+  size: 104, 99
+  orig: 106, 107
+  offset: 1, 7
+  index: -1
+coin
+  rotate: false
+  xy: 2, 405
+  size: 309, 80
+  orig: 311, 82
+  offset: 1, 1
+  index: -1
+coin_glow
+  rotate: false
+  xy: 2, 321
+  size: 231, 82
+  orig: 244, 96
+  offset: 5, 8
+  index: -1
+coin_glow02
+  rotate: false
+  xy: 235, 301
+  size: 202, 83
+  orig: 217, 96
+  offset: 6, 7
+  index: -1
+glow
+  rotate: false
+  xy: 2, 154
+  size: 394, 145
+  orig: 447, 186
+  offset: 30, 29
+  index: -1

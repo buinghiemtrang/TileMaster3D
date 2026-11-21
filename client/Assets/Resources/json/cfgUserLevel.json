@@ -1,0 +1,122 @@
+{
+"1": {
+"NeedScore": 60, 
+"UserLevelId": 1, 
+"Rewards": "10|1"
+}, 
+"2": {
+"NeedScore": 120, 
+"UserLevelId": 2, 
+"Rewards": "11|1"
+}, 
+"3": {
+"NeedScore": 150, 
+"UserLevelId": 3, 
+"Rewards": "14|1"
+}, 
+"4": {
+"NeedScore": 150, 
+"UserLevelId": 4, 
+"Rewards": "15|1"
+}, 
+"5": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "10|1"
+}, 
+"6": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "10|1"
+}, 
+"7": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "10|1"
+}, 
+"8": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "10|1"
+}, 
+"9": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "14|1"
+}, 
+"10": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "14|1"
+}, 
+"11": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "14|1"
+}, 
+"12": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "15|1"
+}, 
+"13": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "15|1"
+}, 
+"14": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "11|1"
+}, 
+"15": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "0|5"
+}, 
+"16": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "0|4"
+}, 
+"17": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "0|6"
+}, 
+"18": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "0|7"
+}, 
+"19": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "0|8"
+}, 
+"20": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "0|9"
+}, 
+"21": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "0|10"
+}, 
+"22": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "0|5"
+}, 
+"23": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "0|5"
+}, 
+"24": {
+"NeedScore": 150, 
+"UserLevelId": -1, 
+"Rewards": "0|5"
+}
+}

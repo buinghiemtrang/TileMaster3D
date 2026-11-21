@@ -1,0 +1,39 @@
+[
+{
+"count": 1, 
+"rewards": [
+[
+0, 
+50
+]
+], 
+"id": 1, 
+"showChest": 0
+}, 
+{
+"count": 3, 
+"rewards": [
+[
+0, 
+100
+]
+], 
+"id": 2, 
+"showChest": 0
+}, 
+{
+"count": 5, 
+"rewards": [
+[
+0, 
+200
+], 
+[
+21, 
+1
+]
+], 
+"id": 3, 
+"showChest": 1
+}
+]

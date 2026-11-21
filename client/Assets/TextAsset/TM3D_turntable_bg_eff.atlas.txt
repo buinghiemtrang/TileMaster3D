@@ -1,0 +1,27 @@
+
+TM3D_turntable_bg_eff.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare08
+  rotate: false
+  xy: 257, 102
+  size: 25, 25
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 253, 230
+  orig: 256, 256
+  offset: 3, 0
+  index: -1
+tx_Glow_061
+  rotate: false
+  xy: 257, 129
+  size: 103, 103
+  orig: 128, 128
+  offset: 13, 12
+  index: -1

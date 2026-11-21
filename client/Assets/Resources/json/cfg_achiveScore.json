@@ -1,0 +1,72 @@
+[
+{
+"Count": 2, 
+"Icon": "lv-icon-1", 
+"id": 1, 
+"DescLangId": "Language76", 
+"LvLangId": "Language56"
+}, 
+{
+"Count": 5, 
+"Icon": "lv-icon-2", 
+"id": 2, 
+"DescLangId": "Language76", 
+"LvLangId": "Language57"
+}, 
+{
+"Count": 10, 
+"Icon": "lv-icon-3", 
+"id": 3, 
+"DescLangId": "Language76", 
+"LvLangId": "Language58"
+}, 
+{
+"Count": 20, 
+"Icon": "lv-icon-4", 
+"id": 4, 
+"DescLangId": "Language76", 
+"LvLangId": "Language59"
+}, 
+{
+"Count": 30, 
+"Icon": "lv-icon-5", 
+"id": 5, 
+"DescLangId": "Language76", 
+"LvLangId": "Language60"
+}, 
+{
+"Count": 40, 
+"Icon": "lv-icon-6", 
+"id": 6, 
+"DescLangId": "Language76", 
+"LvLangId": "Language61"
+}, 
+{
+"Count": 50, 
+"Icon": "lv-icon-7", 
+"id": 7, 
+"DescLangId": "Language76", 
+"LvLangId": "Language62"
+}, 
+{
+"Count": 60, 
+"Icon": "lv-icon-8", 
+"id": 8, 
+"DescLangId": "Language76", 
+"LvLangId": "Language63"
+}, 
+{
+"Count": 70, 
+"Icon": "lv-icon-9", 
+"id": 9, 
+"DescLangId": "Language76", 
+"LvLangId": "Language64"
+}, 
+{
+"Count": 77, 
+"Icon": "lv-icon-10", 
+"id": 10, 
+"DescLangId": "Language76", 
+"LvLangId": "Language65"
+}
+]

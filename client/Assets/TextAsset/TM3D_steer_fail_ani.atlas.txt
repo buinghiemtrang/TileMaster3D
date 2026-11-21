@@ -1,0 +1,62 @@
+
+TM3D_steer_fail_ani.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down
+  rotate: true
+  xy: 2, 86
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+floor
+  rotate: true
+  xy: 261, 28
+  size: 71, 73
+  orig: 73, 75
+  offset: 1, 1
+  index: -1
+four
+  rotate: true
+  xy: 106, 15
+  size: 86, 79
+  orig: 88, 81
+  offset: 1, 1
+  index: -1
+one
+  rotate: false
+  xy: 106, 103
+  size: 83, 81
+  orig: 86, 83
+  offset: 2, 1
+  index: -1
+red
+  rotate: false
+  xy: 187, 28
+  size: 72, 73
+  orig: 74, 75
+  offset: 1, 1
+  index: -1
+red_glow
+  rotate: false
+  xy: 191, 103
+  size: 81, 81
+  orig: 84, 84
+  offset: 2, 2
+  index: -1
+three
+  rotate: false
+  xy: 274, 101
+  size: 80, 83
+  orig: 83, 85
+  offset: 2, 1
+  index: -1
+two
+  rotate: true
+  xy: 2, 2
+  size: 82, 79
+  orig: 85, 84
+  offset: 2, 4
+  index: -1

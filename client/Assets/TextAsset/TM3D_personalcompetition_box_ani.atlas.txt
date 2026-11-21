@@ -1,0 +1,90 @@
+
+TM3D_personalcompetition_box_ani.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_glow_a7
+  rotate: false
+  xy: 692, 185
+  size: 118, 118
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+line
+  rotate: false
+  xy: 447, 73
+  size: 94, 213
+  orig: 101, 221
+  offset: 3, 0
+  index: -1
+personal1_box
+  rotate: false
+  xy: 692, 305
+  size: 253, 160
+  orig: 253, 160
+  offset: 0, 0
+  index: -1
+personal1_cover
+  rotate: false
+  xy: 543, 4
+  size: 253, 166
+  orig: 253, 166
+  offset: 0, 0
+  index: -1
+personal1_shadow
+  rotate: true
+  xy: 543, 172
+  size: 293, 147
+  orig: 299, 151
+  offset: 3, 2
+  index: -1
+personal1_up
+  rotate: false
+  xy: 162, 2
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+personal2_box
+  rotate: true
+  xy: 272, 11
+  size: 275, 173
+  orig: 275, 173
+  offset: 0, 0
+  index: -1
+personal2_cover
+  rotate: true
+  xy: 2, 2
+  size: 274, 158
+  orig: 274, 158
+  offset: 0, 0
+  index: -1
+personal2_up
+  rotate: false
+  xy: 162, 85
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+personal3_box
+  rotate: false
+  xy: 272, 288
+  size: 269, 177
+  orig: 269, 177
+  offset: 0, 0
+  index: -1
+personal3_cover
+  rotate: false
+  xy: 2, 278
+  size: 268, 187
+  orig: 268, 187
+  offset: 0, 0
+  index: -1
+personal3_up
+  rotate: false
+  xy: 162, 175
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1

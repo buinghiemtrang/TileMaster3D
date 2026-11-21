@@ -1,0 +1,13 @@
+
+TM3D_cake_fail_02_ani.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke01
+  rotate: false
+  xy: 2, 2
+  size: 110, 104
+  orig: 128, 128
+  offset: 11, 10
+  index: -1

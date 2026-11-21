@@ -1,0 +1,354 @@
+[
+{
+"ranking": 1, 
+"reward": [
+[
+10, 
+1
+], 
+[
+11, 
+1
+], 
+[
+14, 
+1
+], 
+[
+15, 
+1
+], 
+[
+23, 
+132
+]
+], 
+"id": 1, 
+"skinName": "red", 
+"groupId": 1
+}, 
+{
+"ranking": 2, 
+"reward": [
+[
+10, 
+1
+], 
+[
+11, 
+1
+], 
+[
+14, 
+1
+], 
+[
+23, 
+131
+]
+], 
+"id": 2, 
+"skinName": "blue", 
+"groupId": 1
+}, 
+{
+"ranking": 3, 
+"reward": [
+[
+10, 
+1
+], 
+[
+11, 
+1
+], 
+[
+15, 
+1
+], 
+[
+23, 
+131
+]
+], 
+"id": 3, 
+"skinName": "blue", 
+"groupId": 1
+}, 
+{
+"ranking": 4, 
+"reward": [
+[
+10, 
+1
+], 
+[
+15, 
+1
+], 
+[
+23, 
+131
+]
+], 
+"id": 4, 
+"skinName": "violet", 
+"groupId": 1
+}, 
+{
+"ranking": 5, 
+"reward": [
+[
+11, 
+1
+], 
+[
+15, 
+1
+], 
+[
+23, 
+131
+]
+], 
+"id": 5, 
+"skinName": "violet", 
+"groupId": 1
+}, 
+{
+"ranking": 6, 
+"reward": [
+[
+15, 
+1
+]
+], 
+"id": 6, 
+"skinName": "pink", 
+"groupId": 1
+}, 
+{
+"ranking": 7, 
+"reward": [
+[
+15, 
+1
+]
+], 
+"id": 7, 
+"skinName": "pink", 
+"groupId": 1
+}, 
+{
+"ranking": 8, 
+"reward": [
+[
+15, 
+1
+]
+], 
+"id": 8, 
+"skinName": "pink", 
+"groupId": 1
+}, 
+{
+"ranking": 9, 
+"reward": [
+[
+15, 
+1
+]
+], 
+"id": 9, 
+"skinName": "pink", 
+"groupId": 1
+}, 
+{
+"ranking": 10, 
+"reward": [
+[
+15, 
+1
+]
+], 
+"id": 10, 
+"skinName": "pink", 
+"groupId": 1
+}, 
+{
+"ranking": 1, 
+"reward": [
+[
+10, 
+1
+], 
+[
+11, 
+1
+], 
+[
+14, 
+1
+], 
+[
+15, 
+1
+], 
+[
+23, 
+132
+]
+], 
+"id": 11, 
+"skinName": "red", 
+"groupId": 2
+}, 
+{
+"ranking": 2, 
+"reward": [
+[
+10, 
+1
+], 
+[
+11, 
+1
+], 
+[
+14, 
+1
+], 
+[
+23, 
+131
+]
+], 
+"id": 12, 
+"skinName": "blue", 
+"groupId": 2
+}, 
+{
+"ranking": 3, 
+"reward": [
+[
+10, 
+1
+], 
+[
+11, 
+1
+], 
+[
+15, 
+1
+], 
+[
+23, 
+131
+]
+], 
+"id": 13, 
+"skinName": "blue", 
+"groupId": 2
+}, 
+{
+"ranking": 4, 
+"reward": [
+[
+10, 
+1
+], 
+[
+15, 
+1
+], 
+[
+23, 
+131
+]
+], 
+"id": 14, 
+"skinName": "violet", 
+"groupId": 2
+}, 
+{
+"ranking": 5, 
+"reward": [
+[
+11, 
+1
+], 
+[
+15, 
+1
+], 
+[
+23, 
+131
+]
+], 
+"id": 15, 
+"skinName": "violet", 
+"groupId": 2
+}, 
+{
+"ranking": 6, 
+"reward": [
+[
+15, 
+1
+]
+], 
+"id": 16, 
+"skinName": "pink", 
+"groupId": 2
+}, 
+{
+"ranking": 7, 
+"reward": [
+[
+15, 
+1
+]
+], 
+"id": 17, 
+"skinName": "pink", 
+"groupId": 2
+}, 
+{
+"ranking": 8, 
+"reward": [
+[
+15, 
+1
+]
+], 
+"id": 18, 
+"skinName": "pink", 
+"groupId": 2
+}, 
+{
+"ranking": 9, 
+"reward": [
+[
+15, 
+1
+]
+], 
+"id": 19, 
+"skinName": "pink", 
+"groupId": 2
+}, 
+{
+"ranking": 10, 
+"reward": [
+[
+15, 
+1
+]
+], 
+"id": 20, 
+"skinName": "pink", 
+"groupId": 2
+}
+]

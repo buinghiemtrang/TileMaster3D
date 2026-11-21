@@ -1,0 +1,17 @@
+[
+{
+"campaignMatch": "TM3D_D28 Ad Revenue_MXQ_US_AND_20250613_Applovin_install", 
+"afMediasourceMatch": "applovin", 
+"setChannelName": "Applovin-ROAS"
+}, 
+{
+"campaignMatch": "TM3D_D28 Ad Revenue_MXQ_WW_AND_20241230_Applovin_install", 
+"afMediasourceMatch": "applovin", 
+"setChannelName": "Applovin-ROAS"
+}, 
+{
+"campaignMatch": "cpe", 
+"afMediasourceMatch": "applovin", 
+"setChannelName": "Applovin-CPE"
+}
+]

@@ -1,0 +1,97 @@
+
+TM3D_box_ani.png
+size: 1010,487
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box-1-box
+  rotate: true
+  xy: 459, 224
+  size: 261, 156
+  orig: 281, 178
+  offset: 10, 10
+  index: -1
+box-1-close
+  rotate: false
+  xy: 765, 165
+  size: 242, 155
+  orig: 244, 157
+  offset: 1, 1
+  index: -1
+box-1-open
+  rotate: true
+  xy: 398, 12
+  size: 204, 130
+  orig: 206, 132
+  offset: 1, 1
+  index: -1
+box-2-box
+  rotate: true
+  xy: 300, 218
+  size: 267, 157
+  orig: 289, 168
+  offset: 11, 10
+  index: -1
+box-2-close
+  rotate: false
+  xy: 765, 322
+  size: 243, 163
+  orig: 245, 168
+  offset: 1, 4
+  index: -1
+box-2-open
+  rotate: true
+  xy: 267, 8
+  size: 207, 129
+  orig: 209, 131
+  offset: 1, 1
+  index: -1
+box-3-box
+  rotate: true
+  xy: 2, 217
+  size: 268, 147
+  orig: 289, 157
+  offset: 10, 9
+  index: -1
+box-3-close
+  rotate: false
+  xy: 765, 6
+  size: 233, 157
+  orig: 236, 159
+  offset: 1, 1
+  index: -1
+box-3-open
+  rotate: true
+  xy: 138, 5
+  size: 210, 127
+  orig: 212, 129
+  offset: 1, 1
+  index: -1
+box-4-box
+  rotate: true
+  xy: 151, 217
+  size: 268, 147
+  orig: 289, 157
+  offset: 11, 9
+  index: -1
+box-4-close
+  rotate: false
+  xy: 530, 58
+  size: 233, 164
+  orig: 235, 178
+  offset: 1, 13
+  index: -1
+box-4-open
+  rotate: true
+  xy: 2, 2
+  size: 213, 134
+  orig: 216, 136
+  offset: 2, 1
+  index: -1
+glow
+  rotate: true
+  xy: 617, 376
+  size: 109, 110
+  orig: 128, 129
+  offset: 10, 9
+  index: -1

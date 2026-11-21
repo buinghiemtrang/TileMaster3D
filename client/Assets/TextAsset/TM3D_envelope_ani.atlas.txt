@@ -1,0 +1,125 @@
+
+TM3D_envelope_ani.png
+size: 986,955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GoldLight1
+  rotate: false
+  xy: 605, 489
+  size: 279, 279
+  orig: 285, 285
+  offset: 3, 3
+  index: -1
+GoldLight2
+  rotate: true
+  xy: 466, 191
+  size: 274, 273
+  orig: 298, 296
+  offset: 10, 12
+  index: -1
+Streamer_down_1
+  rotate: true
+  xy: 886, 626
+  size: 142, 91
+  orig: 144, 93
+  offset: 0, 1
+  index: -1
+Streamer_down_2
+  rotate: false
+  xy: 466, 467
+  size: 133, 112
+  orig: 135, 113
+  offset: 0, 1
+  index: -1
+Streamer_up
+  rotate: false
+  xy: 741, 344
+  size: 231, 143
+  orig: 232, 143
+  offset: 0, 0
+  index: -1
+balloon_red_1
+  rotate: true
+  xy: 225, 12
+  size: 115, 311
+  orig: 115, 312
+  offset: 0, 0
+  index: -1
+balloon_red_2
+  rotate: false
+  xy: 436, 581
+  size: 167, 372
+  orig: 176, 372
+  offset: 9, 0
+  index: -1
+balloon_red_3
+  rotate: false
+  xy: 321, 145
+  size: 143, 391
+  orig: 155, 398
+  offset: 8, 0
+  index: -1
+balloon_red_4
+  rotate: false
+  xy: 2, 462
+  size: 170, 491
+  orig: 183, 492
+  offset: 13, 1
+  index: -1
+balloon_white_1
+  rotate: true
+  xy: 605, 770
+  size: 183, 359
+  orig: 201, 376
+  offset: 12, 10
+  index: -1
+balloon_white_2
+  rotate: true
+  xy: 710, 48
+  size: 141, 274
+  orig: 153, 286
+  offset: 7, 7
+  index: -1
+envelope
+  rotate: true
+  xy: 2, 10
+  size: 450, 221
+  orig: 460, 226
+  offset: 2, 0
+  index: -1
+envelope-close
+  rotate: true
+  xy: 174, 538
+  size: 415, 260
+  orig: 415, 260
+  offset: 0, 0
+  index: -1
+envelope-open
+  rotate: true
+  xy: 225, 129
+  size: 407, 94
+  orig: 409, 94
+  offset: 1, 0
+  index: -1
+hong
+  rotate: false
+  xy: 538, 2
+  size: 170, 187
+  orig: 217, 248
+  offset: 20, 29
+  index: -1
+star
+  rotate: false
+  xy: 174, 512
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+star_1
+  rotate: false
+  xy: 174, 488
+  size: 22, 22
+  orig: 26, 26
+  offset: 2, 2
+  index: -1

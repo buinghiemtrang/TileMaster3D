@@ -1,0 +1,41 @@
+
+3D_box_ani-new-2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 212, 2
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+gold_box_close
+  rotate: false
+  xy: 216, 132
+  size: 206, 174
+  orig: 208, 176
+  offset: 1, 1
+  index: -1
+gold_box_copen
+  rotate: false
+  xy: 2, 267
+  size: 212, 230
+  orig: 214, 232
+  offset: 1, 1
+  index: -1
+silver_box_close
+  rotate: false
+  xy: 216, 308
+  size: 205, 189
+  orig: 207, 191
+  offset: 1, 1
+  index: -1
+silver_box_open
+  rotate: false
+  xy: 2, 34
+  size: 208, 231
+  orig: 210, 233
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,111 @@
+
+TM3D_Medal_Victory_03_ani.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1
+  rotate: false
+  xy: 103, 54
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+L2
+  rotate: false
+  xy: 187, 72
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+L3
+  rotate: true
+  xy: 312, 86
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+L4
+  rotate: true
+  xy: 279, 83
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+R1
+  rotate: false
+  xy: 145, 54
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+R2
+  rotate: false
+  xy: 233, 72
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+R3
+  rotate: true
+  xy: 317, 44
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+R4
+  rotate: true
+  xy: 284, 38
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 172, 8
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 103, 8
+  size: 67, 44
+  orig: 69, 49
+  offset: 1, 1
+  index: -1
+gem1
+  rotate: false
+  xy: 2, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+gem2
+  rotate: false
+  xy: 2, 12
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+gem3
+  rotate: false
+  xy: 10, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 239, 19
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+zhong
+  rotate: true
+  xy: 2, 26
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1

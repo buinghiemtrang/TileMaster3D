@@ -1,0 +1,11 @@
+{
+"CoexistingLimit": 2, 
+"LevelCreateLimit": 3, 
+"AssimilationBlockSwitch": true, 
+"AssimilationBlockUnlockLevel": 15, 
+"AssimilationBlockId": 999999, 
+"CreateCD": 60, 
+"AvailableDailyLimit": 5, 
+"CollectTimes": 30, 
+"FixedRewardStage": 1
+}

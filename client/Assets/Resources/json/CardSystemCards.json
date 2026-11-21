@@ -1,0 +1,662 @@
+{
+"1": {
+"group": 1, 
+"name": "Card_Name1", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 1, 
+"quality": 1, 
+"id": 1, 
+"icon": "halloween_biscuits_deck/halloween_biscuits_card1"
+}, 
+"2": {
+"group": 1, 
+"name": "Card_Name2", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 1, 
+"quality": 1, 
+"id": 2, 
+"icon": "halloween_biscuits_deck/halloween_biscuits_card2"
+}, 
+"3": {
+"group": 1, 
+"name": "Card_Name3", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 2, 
+"quality": 2, 
+"id": 3, 
+"icon": "halloween_biscuits_deck/halloween_biscuits_card3"
+}, 
+"4": {
+"group": 1, 
+"name": "Card_Name4", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 2, 
+"quality": 2, 
+"id": 4, 
+"icon": "halloween_biscuits_deck/halloween_biscuits_card4"
+}, 
+"5": {
+"group": 1, 
+"name": "Card_Name5", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 5, 
+"icon": "halloween_biscuits_deck/halloween_biscuits_card5"
+}, 
+"6": {
+"group": 1, 
+"name": "Card_Name6", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 6, 
+"icon": "halloween_biscuits_deck/halloween_biscuits_card6"
+}, 
+"7": {
+"group": 1, 
+"name": "Card_Name7", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 4, 
+"quality": 4, 
+"id": 7, 
+"icon": "halloween_biscuits_deck/halloween_biscuits_card7"
+}, 
+"8": {
+"group": 1, 
+"name": "Card_Name8", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 4, 
+"quality": 4, 
+"id": 8, 
+"icon": "halloween_biscuits_deck/halloween_biscuits_card8"
+}, 
+"9": {
+"group": 1, 
+"name": "Card_Name9", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 5, 
+"quality": 5, 
+"id": 9, 
+"icon": "halloween_biscuits_deck/halloween_biscuits_card9"
+}, 
+"10": {
+"group": 2, 
+"name": "Card_Name10", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 1, 
+"quality": 1, 
+"id": 10, 
+"icon": "halloween_witch_deck/halloween_witch_card1"
+}, 
+"11": {
+"group": 2, 
+"name": "Card_Name11", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 1, 
+"quality": 1, 
+"id": 11, 
+"icon": "halloween_witch_deck/halloween_witch_card2"
+}, 
+"12": {
+"group": 2, 
+"name": "Card_Name12", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 2, 
+"quality": 2, 
+"id": 12, 
+"icon": "halloween_witch_deck/halloween_witch_card3"
+}, 
+"13": {
+"group": 2, 
+"name": "Card_Name13", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 2, 
+"quality": 2, 
+"id": 13, 
+"icon": "halloween_witch_deck/halloween_witch_card4"
+}, 
+"14": {
+"group": 2, 
+"name": "Card_Name14", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 14, 
+"icon": "halloween_witch_deck/halloween_witch_card5"
+}, 
+"15": {
+"group": 2, 
+"name": "Card_Name15", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 15, 
+"icon": "halloween_witch_deck/halloween_witch_card6"
+}, 
+"16": {
+"group": 2, 
+"name": "Card_Name16", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 4, 
+"quality": 4, 
+"id": 16, 
+"icon": "halloween_witch_deck/halloween_witch_card7"
+}, 
+"17": {
+"group": 2, 
+"name": "Card_Name17", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 4, 
+"quality": 4, 
+"id": 17, 
+"icon": "halloween_witch_deck/halloween_witch_card8"
+}, 
+"18": {
+"group": 2, 
+"name": "Card_Name18", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 5, 
+"quality": 5, 
+"id": 18, 
+"icon": "halloween_witch_deck/halloween_witch_card9"
+}, 
+"19": {
+"group": 3, 
+"name": "Card_Name19", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 1, 
+"quality": 1, 
+"id": 19, 
+"icon": "halloween_candy_deck/halloween_candy_candies"
+}, 
+"20": {
+"group": 3, 
+"name": "Card_Name20", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 2, 
+"quality": 2, 
+"id": 20, 
+"icon": "halloween_candy_deck/halloween_candy_candy_canes"
+}, 
+"21": {
+"group": 3, 
+"name": "Card_Name21", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 2, 
+"quality": 2, 
+"id": 21, 
+"icon": "halloween_candy_deck/halloween_candy_earthworm_candy"
+}, 
+"22": {
+"group": 3, 
+"name": "Card_Name22", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 22, 
+"icon": "halloween_candy_deck/halloween_candy_eyeball_candy"
+}, 
+"23": {
+"group": 3, 
+"name": "Card_Name23", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 23, 
+"icon": "halloween_candy_deck/halloween_candy_finger_candy"
+}, 
+"24": {
+"group": 3, 
+"name": "Card_Name24", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 4, 
+"quality": 4, 
+"id": 24, 
+"icon": "halloween_candy_deck/halloween_candy_gummies"
+}, 
+"25": {
+"group": 3, 
+"name": "Card_Name25", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 5, 
+"quality": 5, 
+"id": 25, 
+"icon": "halloween_candy_deck/halloween_candy_lollipop"
+}, 
+"26": {
+"group": 3, 
+"name": "Card_Name26", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 26, 
+"icon": "halloween_candy_deck/halloween_candy_marshmallow"
+}, 
+"27": {
+"group": 3, 
+"name": "Card_Name27", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 27, 
+"icon": "halloween_candy_deck/halloween_candy_skeleton_candy"
+}, 
+"28": {
+"group": 4, 
+"name": "Card_Name28", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 1, 
+"quality": 1, 
+"id": 28, 
+"icon": "halloween_cemetery_deck/halloween_cemetery_bat"
+}, 
+"29": {
+"group": 4, 
+"name": "Card_Name29", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 2, 
+"quality": 2, 
+"id": 29, 
+"icon": "halloween_cemetery_deck/halloween_cemetery_candle"
+}, 
+"30": {
+"group": 4, 
+"name": "Card_Name30", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 30, 
+"icon": "halloween_cemetery_deck/halloween_cemetery_cloak"
+}, 
+"31": {
+"group": 4, 
+"name": "Card_Name31", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 4, 
+"quality": 4, 
+"id": 31, 
+"icon": "halloween_cemetery_deck/halloween_cemetery_coffin"
+}, 
+"32": {
+"group": 4, 
+"name": "Card_Name32", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 4, 
+"quality": 4, 
+"id": 32, 
+"icon": "halloween_cemetery_deck/halloween_cemetery_plasma"
+}, 
+"33": {
+"group": 4, 
+"name": "Card_Name33", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 5, 
+"quality": 5, 
+"id": 33, 
+"icon": "halloween_cemetery_deck/halloween_cemetery_pumpkin"
+}, 
+"34": {
+"group": 4, 
+"name": "Card_Name34", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 5, 
+"quality": 5, 
+"id": 34, 
+"icon": "halloween_cemetery_deck/halloween_cemetery_rose"
+}, 
+"35": {
+"group": 4, 
+"name": "Card_Name35", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 35, 
+"icon": "halloween_cemetery_deck/halloween_cemetery_spider"
+}, 
+"36": {
+"group": 4, 
+"name": "Card_Name36", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 36, 
+"icon": "halloween_cemetery_deck/halloween_cemetery_tombstone"
+}, 
+"37": {
+"group": 5, 
+"name": "Card_Name37", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 1, 
+"quality": 1, 
+"id": 37, 
+"icon": "halloween_ghosthouse_deck/halloween_ghosthouse_bat"
+}, 
+"38": {
+"group": 5, 
+"name": "Card_Name38", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 2, 
+"quality": 2, 
+"id": 38, 
+"icon": "halloween_ghosthouse_deck/halloween_ghosthouse_demon"
+}, 
+"39": {
+"group": 5, 
+"name": "Card_Name39", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 39, 
+"icon": "halloween_ghosthouse_deck/halloween_ghosthouse_candy_basket"
+}, 
+"40": {
+"group": 5, 
+"name": "Card_Name40", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 40, 
+"icon": "halloween_ghosthouse_deck/halloween_ghosthouse_ghost"
+}, 
+"41": {
+"group": 5, 
+"name": "Card_Name41", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 4, 
+"quality": 4, 
+"id": 41, 
+"icon": "halloween_ghosthouse_deck/halloween_ghosthouse_witch_hat"
+}, 
+"42": {
+"group": 5, 
+"name": "Card_Name42", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 4, 
+"quality": 4, 
+"id": 42, 
+"icon": "halloween_ghosthouse_deck/halloween_ghosthouse_frankenstein"
+}, 
+"43": {
+"group": 5, 
+"name": "Card_Name43", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 5, 
+"quality": 5, 
+"id": 43, 
+"icon": "halloween_ghosthouse_deck/halloween_ghosthouse_mummy"
+}, 
+"44": {
+"group": 5, 
+"name": "Card_Name44", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 5, 
+"quality": 5, 
+"id": 44, 
+"icon": "halloween_ghosthouse_deck/halloween_ghosthouse_vampire"
+}, 
+"45": {
+"group": 5, 
+"name": "Card_Name45", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 45, 
+"icon": "halloween_ghosthouse_deck/halloween_ghosthouse_zombie"
+}, 
+"46": {
+"group": 6, 
+"name": "Card_Name46", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 1, 
+"quality": 1, 
+"id": 46, 
+"icon": "christmas_element_deck/christmas_element_Snowman"
+}, 
+"47": {
+"group": 6, 
+"name": "Card_Name47", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 2, 
+"quality": 2, 
+"id": 47, 
+"icon": "christmas_element_deck/christmas_element_Candle"
+}, 
+"48": {
+"group": 6, 
+"name": "Card_Name48", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 2, 
+"quality": 2, 
+"id": 48, 
+"icon": "christmas_element_deck/christmas_element_CandyCanes"
+}, 
+"49": {
+"group": 6, 
+"name": "Card_Name49", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 49, 
+"icon": "christmas_element_deck/christmas_element_Gingerbread"
+}, 
+"50": {
+"group": 6, 
+"name": "Card_Name50", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 3, 
+"quality": 3, 
+"id": 50, 
+"icon": "christmas_element_deck/christmas_element_Mistletoe"
+}, 
+"51": {
+"group": 6, 
+"name": "Card_Name51", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 4, 
+"quality": 4, 
+"id": 51, 
+"icon": "christmas_element_deck/christmas_element_ChristmasHat"
+}, 
+"52": {
+"group": 6, 
+"name": "Card_Name52", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 5, 
+"quality": 5, 
+"id": 52, 
+"icon": "christmas_element_deck/christmas_element_Gloves"
+}, 
+"53": {
+"group": 6, 
+"name": "Card_Name53", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 5, 
+"quality": 5, 
+"id": 53, 
+"icon": "christmas_element_deck/christmas_element_Socks"
+}, 
+"54": {
+"group": 6, 
+"name": "Card_Name54", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 54, 
+"icon": "christmas_element_deck/christmas_element_Christmastree"
+}, 
+"55": {
+"group": 7, 
+"name": "Card_Name55", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 55, 
+"icon": "constellation_deck/Aquarius"
+}, 
+"56": {
+"group": 7, 
+"name": "Card_Name56", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 56, 
+"icon": "constellation_deck/Aries"
+}, 
+"57": {
+"group": 7, 
+"name": "Card_Name57", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 57, 
+"icon": "constellation_deck/Cancer"
+}, 
+"58": {
+"group": 7, 
+"name": "Card_Name58", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 58, 
+"icon": "constellation_deck/Capricorn"
+}, 
+"59": {
+"group": 7, 
+"name": "Card_Name59", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 59, 
+"icon": "constellation_deck/Gemini"
+}, 
+"60": {
+"group": 7, 
+"name": "Card_Name60", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 60, 
+"icon": "constellation_deck/Leo"
+}, 
+"61": {
+"group": 7, 
+"name": "Card_Name61", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 61, 
+"icon": "constellation_deck/Libra"
+}, 
+"62": {
+"group": 7, 
+"name": "Card_Name62", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 62, 
+"icon": "constellation_deck/Pisces"
+}, 
+"63": {
+"group": 7, 
+"name": "Card_Name63", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 63, 
+"icon": "constellation_deck/Sagittarius"
+}, 
+"64": {
+"group": 7, 
+"name": "Card_Name64", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 64, 
+"icon": "constellation_deck/Scorpio"
+}, 
+"65": {
+"group": 7, 
+"name": "Card_Name65", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 65, 
+"icon": "constellation_deck/Taurus"
+}, 
+"66": {
+"group": 7, 
+"name": "Card_Name66", 
+"level": 0, 
+"show_time": "20210101-20300101", 
+"background": 6, 
+"quality": 6, 
+"id": 66, 
+"icon": "constellation_deck/Virgo"
+}
+}

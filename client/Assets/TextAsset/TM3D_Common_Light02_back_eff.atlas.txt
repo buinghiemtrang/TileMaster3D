@@ -1,0 +1,34 @@
+
+TM3D_Common_Light02_back_eff.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 2, 2
+  size: 253, 235
+  orig: 296, 245
+  offset: 18, 1
+  index: -1
+star01
+  rotate: true
+  xy: 8, 284
+  size: 12, 15
+  orig: 14, 19
+  offset: 1, 2
+  index: -1
+star03
+  rotate: true
+  xy: 25, 257
+  size: 39, 40
+  orig: 43, 42
+  offset: 2, 1
+  index: -1
+star04
+  rotate: false
+  xy: 2, 292
+  size: 4, 4
+  orig: 7, 7
+  offset: 2, 2
+  index: -1

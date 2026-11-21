@@ -1,0 +1,62 @@
+
+TM3D_cake_oven_ani.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 100
+  size: 142, 152
+  orig: 144, 154
+  offset: 1, 1
+  index: -1
+black
+  rotate: true
+  xy: 192, 4
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: false
+  xy: 168, 3
+  size: 22, 65
+  orig: 22, 65
+  offset: 0, 0
+  index: -1
+kaoxiang
+  rotate: false
+  xy: 2, 2
+  size: 126, 96
+  orig: 128, 98
+  offset: 1, 1
+  index: -1
+panzi-1
+  rotate: true
+  xy: 130, 28
+  size: 70, 36
+  orig: 72, 39
+  offset: 1, 2
+  index: -1
+panzi-2
+  rotate: true
+  xy: 217, 70
+  size: 70, 36
+  orig: 73, 39
+  offset: 1, 2
+  index: -1
+panzi-3
+  rotate: false
+  xy: 146, 103
+  size: 69, 37
+  orig: 73, 39
+  offset: 2, 1
+  index: -1
+smoke01
+  rotate: true
+  xy: 146, 142
+  size: 110, 104
+  orig: 128, 128
+  offset: 11, 10
+  index: -1

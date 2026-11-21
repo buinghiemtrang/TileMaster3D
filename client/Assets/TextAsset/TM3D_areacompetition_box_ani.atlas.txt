@@ -1,0 +1,76 @@
+
+TM3D_areacompetition_box_ani.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+area1_box
+  rotate: false
+  xy: 682, 38
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+area1_cover
+  rotate: true
+  xy: 682, 210
+  size: 267, 175
+  orig: 267, 175
+  offset: 0, 0
+  index: -1
+area2_box
+  rotate: true
+  xy: 2, 2
+  size: 276, 181
+  orig: 276, 181
+  offset: 0, 0
+  index: -1
+area2_cover
+  rotate: false
+  xy: 260, 282
+  size: 271, 195
+  orig: 271, 195
+  offset: 0, 0
+  index: -1
+area3_box
+  rotate: true
+  xy: 260, 4
+  size: 276, 190
+  orig: 276, 190
+  offset: 0, 0
+  index: -1
+area3_cover
+  rotate: false
+  xy: 2, 280
+  size: 256, 197
+  orig: 256, 197
+  offset: 0, 0
+  index: -1
+fx_glow_a7
+  rotate: false
+  xy: 452, 64
+  size: 118, 118
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+line
+  rotate: false
+  xy: 859, 264
+  size: 94, 213
+  orig: 101, 221
+  offset: 3, 0
+  index: -1
+personal1_shadow
+  rotate: true
+  xy: 533, 184
+  size: 293, 147
+  orig: 299, 151
+  offset: 3, 2
+  index: -1
+personal1_up
+  rotate: false
+  xy: 185, 197
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1

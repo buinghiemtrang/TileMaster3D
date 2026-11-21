@@ -1,0 +1,188 @@
+[
+{
+"Res": "TeamIcon/team-icon-21", 
+"RegionCode": "cn", 
+"Id": 1, 
+"Desc": "China"
+}, 
+{
+"Res": "TeamIcon/team-icon-44", 
+"RegionCode": "us", 
+"Id": 2, 
+"Desc": "United States"
+}, 
+{
+"Res": "TeamIcon/team-icon-23", 
+"RegionCode": "gb", 
+"Id": 3, 
+"Desc": "United Kingdom"
+}, 
+{
+"Res": "TeamIcon/team-icon-54", 
+"RegionCode": "ru", 
+"Id": 4, 
+"Desc": "Russia"
+}, 
+{
+"Res": "TeamIcon/team-icon-47", 
+"RegionCode": "ca", 
+"Id": 5, 
+"Desc": "Canada"
+}, 
+{
+"Res": "TeamIcon/team-icon-53", 
+"RegionCode": "fr", 
+"Id": 6, 
+"Desc": "France"
+}, 
+{
+"Res": "TeamIcon/team-icon-39", 
+"RegionCode": "jp", 
+"Id": 7, 
+"Desc": "Japan"
+}, 
+{
+"Res": "TeamIcon/team-icon-49", 
+"RegionCode": "kr", 
+"Id": 8, 
+"Desc": "South Korea"
+}, 
+{
+"Res": "TeamIcon/team-icon-25", 
+"RegionCode": "in", 
+"Id": 9, 
+"Desc": "India"
+}, 
+{
+"Res": "TeamIcon/team-icon-68", 
+"RegionCode": "pk", 
+"Id": 10, 
+"Desc": "Pakistan"
+}, 
+{
+"Res": "TeamIcon/team-icon-65", 
+"RegionCode": "eg", 
+"Id": 11, 
+"Desc": "Egypt"
+}, 
+{
+"Res": "TeamIcon/team-icon-52", 
+"RegionCode": "ph", 
+"Id": 12, 
+"Desc": "Philippines"
+}, 
+{
+"Res": "TeamIcon/team-icon-69", 
+"RegionCode": "bd", 
+"Id": 13, 
+"Desc": "Bangladesh"
+}, 
+{
+"Res": "TeamIcon/team-icon-43", 
+"RegionCode": "mx", 
+"Id": 14, 
+"Desc": "Mexico"
+}, 
+{
+"Res": "TeamIcon/team-icon-60", 
+"RegionCode": "br", 
+"Id": 15, 
+"Desc": "Brazil"
+}, 
+{
+"Res": "TeamIcon/team-icon-70", 
+"RegionCode": "ng", 
+"Id": 16, 
+"Desc": "Nigeria"
+}, 
+{
+"Res": "TeamIcon/team-icon-24", 
+"RegionCode": "id", 
+"Id": 17, 
+"Desc": "Indonesia"
+}, 
+{
+"Res": "TeamIcon/team-icon-72", 
+"RegionCode": "co", 
+"Id": 18, 
+"Desc": "Colombia"
+}, 
+{
+"Res": "TeamIcon/team-icon-22", 
+"RegionCode": "vn", 
+"Id": 19, 
+"Desc": "Vietnam"
+}, 
+{
+"Res": "TeamIcon/team-icon-73", 
+"RegionCode": "cu", 
+"Id": 20, 
+"Desc": "Cuba"
+}, 
+{
+"Res": "TeamIcon/team-icon-42", 
+"RegionCode": "za", 
+"Id": 21, 
+"Desc": "South Africa"
+}, 
+{
+"Res": "TeamIcon/team-icon-35", 
+"RegionCode": "th", 
+"Id": 22, 
+"Desc": "Thailand"
+}, 
+{
+"Res": "TeamIcon/team-icon-74", 
+"RegionCode": "ir", 
+"Id": 23, 
+"Desc": "Iran"
+}, 
+{
+"Res": "TeamIcon/team-icon-67", 
+"RegionCode": "ar", 
+"Id": 24, 
+"Desc": "Argentina"
+}, 
+{
+"Res": "TeamIcon/team-icon-75", 
+"RegionCode": "de", 
+"Id": 25, 
+"Desc": "Germany"
+}, 
+{
+"Res": "TeamIcon/team-icon-71", 
+"RegionCode": "ke", 
+"Id": 26, 
+"Desc": "Kenya"
+}, 
+{
+"Res": "TeamIcon/team-icon-36", 
+"RegionCode": "sa", 
+"Id": 27, 
+"Desc": "Saudi Arabia"
+}, 
+{
+"Res": "TeamIcon/team-icon-62", 
+"RegionCode": "au", 
+"Id": 28, 
+"Desc": "Australia"
+}, 
+{
+"Res": "TeamIcon/team-icon-21", 
+"RegionCode": "tw", 
+"Id": 29, 
+"Desc": "Taiwan"
+}, 
+{
+"Res": "TeamIcon/team-icon-34", 
+"RegionCode": "tr", 
+"Id": 30, 
+"Desc": "Turkey"
+}, 
+{
+"Res": "TeamIcon/team-icon-26", 
+"RegionCode": "it", 
+"Id": 31, 
+"Desc": "Italy"
+}
+]

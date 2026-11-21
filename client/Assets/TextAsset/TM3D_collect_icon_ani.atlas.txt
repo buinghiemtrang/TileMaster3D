@@ -1,0 +1,55 @@
+
+TM3D_collect_icon_ani.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 227
+  size: 273, 232
+  orig: 286, 249
+  offset: 4, 8
+  index: -1
+glow-2
+  rotate: true
+  xy: 281, 121
+  size: 247, 152
+  orig: 251, 156
+  offset: 2, 2
+  index: -1
+icon
+  rotate: false
+  xy: 2, 2
+  size: 277, 223
+  orig: 279, 225
+  offset: 1, 1
+  index: -1
+mo1
+  rotate: false
+  xy: 373, 46
+  size: 72, 73
+  orig: 74, 75
+  offset: 1, 1
+  index: -1
+mo2
+  rotate: false
+  xy: 277, 370
+  size: 104, 89
+  orig: 106, 91
+  offset: 1, 1
+  index: -1
+mo3
+  rotate: false
+  xy: 281, 36
+  size: 90, 83
+  orig: 92, 85
+  offset: 1, 1
+  index: -1
+mo4
+  rotate: true
+  xy: 383, 389
+  size: 70, 92
+  orig: 72, 94
+  offset: 1, 1
+  index: -1

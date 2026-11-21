@@ -1,0 +1,69 @@
+
+TM3D_box04_ani.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-gift-box
+  rotate: false
+  xy: 2, 2
+  size: 234, 209
+  orig: 236, 211
+  offset: 1, 1
+  index: -1
+1-gift-gai
+  rotate: true
+  xy: 449, 12
+  size: 242, 180
+  orig: 244, 182
+  offset: 1, 1
+  index: -1
+2-gift-box
+  rotate: true
+  xy: 182, 256
+  size: 234, 209
+  orig: 236, 211
+  offset: 1, 1
+  index: -1
+2-gift-gai
+  rotate: true
+  xy: 631, 68
+  size: 241, 179
+  orig: 243, 181
+  offset: 1, 1
+  index: -1
+3-gift-box
+  rotate: true
+  xy: 238, 20
+  size: 234, 209
+  orig: 236, 211
+  offset: 1, 1
+  index: -1
+3-gift-gai
+  rotate: true
+  xy: 2, 213
+  size: 277, 178
+  orig: 279, 180
+  offset: 1, 1
+  index: -1
+4-gift-box
+  rotate: true
+  xy: 393, 256
+  size: 234, 209
+  orig: 236, 211
+  offset: 1, 1
+  index: -1
+4-gift-gai
+  rotate: false
+  xy: 604, 311
+  size: 242, 179
+  orig: 244, 181
+  offset: 1, 1
+  index: -1
+glow
+  rotate: true
+  xy: 848, 362
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1

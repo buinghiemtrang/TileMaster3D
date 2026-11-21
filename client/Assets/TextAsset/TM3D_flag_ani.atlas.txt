@@ -1,0 +1,48 @@
+
+TM3D_flag_ani.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 320, 4
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 272, 54
+  size: 47, 49
+  orig: 48, 50
+  offset: 0, 1
+  index: -1
+3
+  rotate: true
+  xy: 321, 58
+  size: 45, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 272, 2
+  size: 46, 50
+  orig: 47, 51
+  offset: 0, 1
+  index: -1
+5
+  rotate: false
+  xy: 369, 6
+  size: 44, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 5
+  size: 268, 98
+  orig: 269, 98
+  offset: 0, 0
+  index: -1

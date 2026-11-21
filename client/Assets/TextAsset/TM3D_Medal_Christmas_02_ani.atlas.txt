@@ -1,0 +1,62 @@
+
+TM3D_Medal_Christmas_02_ani.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 631, 53
+  size: 181, 180
+  orig: 183, 182
+  offset: 1, 1
+  index: -1
+down
+  rotate: false
+  xy: 814, 70
+  size: 70, 163
+  orig: 72, 165
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 901, 46
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 434, 39
+  size: 195, 194
+  orig: 197, 196
+  offset: 1, 1
+  index: -1
+scarf
+  rotate: false
+  xy: 886, 84
+  size: 99, 149
+  orig: 99, 149
+  offset: 0, 0
+  index: -1
+snowman
+  rotate: true
+  xy: 2, 2
+  size: 231, 232
+  orig: 233, 234
+  offset: 1, 1
+  index: -1
+up
+  rotate: true
+  xy: 236, 39
+  size: 194, 196
+  orig: 196, 198
+  offset: 1, 1
+  index: -1
+up-1
+  rotate: true
+  xy: 814, 11
+  size: 57, 85
+  orig: 59, 87
+  offset: 1, 1
+  index: -1

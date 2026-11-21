@@ -1,0 +1,27 @@
+{
+"fbAdImpressionResetValue": 0.01, 
+"KeyDelta": 1.0, 
+"Unity_PointKey": [
+0.9, 
+1.5, 
+1.9, 
+2.9, 
+4.9, 
+5.9, 
+6.9, 
+7.9, 
+9.9
+], 
+"fbAdImpressionVerisonNumber": "1.12.8", 
+"valueDelta": 1.0, 
+"fbAdPurchaseVersionNumber": 202240809, 
+"Unity_KeyDelta": 2.0, 
+"PointKey": [
+"0.4|1", 
+"0.7|1", 
+"1|1", 
+"1.5|1", 
+"2|1", 
+"2.5|1"
+]
+}

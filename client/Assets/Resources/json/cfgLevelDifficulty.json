@@ -1,0 +1,200 @@
+[
+{
+"RapidlyTimeK": 2.2, 
+"RandomLevelGroupId": 1, 
+"PointsRange": [
+0, 
+5
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 10.0, 
+"Id": 1
+}, 
+{
+"RapidlyTimeK": 2.0, 
+"RandomLevelGroupId": 1, 
+"PointsRange": [
+6, 
+10
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 9.0, 
+"Id": 2
+}, 
+{
+"RapidlyTimeK": 2.0, 
+"RandomLevelGroupId": 1, 
+"PointsRange": [
+11, 
+15
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 8.0, 
+"Id": 3
+}, 
+{
+"RapidlyTimeK": 1.8, 
+"RandomLevelGroupId": 1, 
+"PointsRange": [
+16, 
+20
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 7.0, 
+"Id": 4
+}, 
+{
+"RapidlyTimeK": 1.8, 
+"RandomLevelGroupId": 1, 
+"PointsRange": [
+21, 
+25
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 6.0, 
+"Id": 5
+}, 
+{
+"RapidlyTimeK": 1.6, 
+"RandomLevelGroupId": 2, 
+"PointsRange": [
+26, 
+30
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 5.0, 
+"Id": 6
+}, 
+{
+"RapidlyTimeK": 1.6, 
+"RandomLevelGroupId": 2, 
+"PointsRange": [
+31, 
+35
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 4.0, 
+"Id": 7
+}, 
+{
+"RapidlyTimeK": 1.2, 
+"RandomLevelGroupId": 2, 
+"PointsRange": [
+36, 
+40
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 3.5, 
+"Id": 8
+}, 
+{
+"RapidlyTimeK": 1.2, 
+"RandomLevelGroupId": 2, 
+"PointsRange": [
+41, 
+45
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 3.0, 
+"Id": 9
+}, 
+{
+"RapidlyTimeK": 1.2, 
+"RandomLevelGroupId": 2, 
+"PointsRange": [
+46, 
+50
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 2.67, 
+"Id": 10
+}, 
+{
+"RapidlyTimeK": 1.0, 
+"RandomLevelGroupId": 3, 
+"PointsRange": [
+51, 
+55
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 2.5, 
+"Id": 11
+}, 
+{
+"RapidlyTimeK": 1.0, 
+"RandomLevelGroupId": 3, 
+"PointsRange": [
+56, 
+65
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 2.33, 
+"Id": 12
+}, 
+{
+"RapidlyTimeK": 1.0, 
+"RandomLevelGroupId": 3, 
+"PointsRange": [
+66, 
+75
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 2.17, 
+"Id": 13
+}, 
+{
+"RapidlyTimeK": 1.0, 
+"RandomLevelGroupId": 3, 
+"PointsRange": [
+76, 
+85
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 2.0, 
+"Id": 14
+}, 
+{
+"RapidlyTimeK": 1.0, 
+"RandomLevelGroupId": 3, 
+"PointsRange": [
+86, 
+95
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 1.67, 
+"Id": 15
+}, 
+{
+"RapidlyTimeK": 1.0, 
+"RandomLevelGroupId": 4, 
+"PointsRange": [
+96, 
+105
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 1.67, 
+"Id": 16
+}, 
+{
+"RapidlyTimeK": 1.0, 
+"RandomLevelGroupId": 4, 
+"PointsRange": [
+106, 
+125
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 1.33, 
+"Id": 17
+}, 
+{
+"RapidlyTimeK": 1.0, 
+"RandomLevelGroupId": 4, 
+"PointsRange": [
+126, 
+145
+], 
+"FixedLevelModelTypeProportion": 1.0, 
+"NormalTimeK": 1.17, 
+"Id": 18
+}
+]

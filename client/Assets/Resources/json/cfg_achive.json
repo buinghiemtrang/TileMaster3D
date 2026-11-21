@@ -1,0 +1,110 @@
+[
+{
+"RewardIOS": "20|30|40|50|60|70|80|100", 
+"DescLangId": "Language79", 
+"RewardAndroid": "20|30|40|50|60|70|80|100", 
+"RewardTypesAndroid": "0|0|0|0|0|0|0|0", 
+"Values": "2|7|15|30|45|60|90|120", 
+"RewardTypesIOS": "0|0|0|0|0|0|0|0", 
+"TitleLangId": "Language73", 
+"Type": 1, 
+"id": 1, 
+"Icon": "achive-1"
+}, 
+{
+"RewardIOS": "20|40|60|80|100", 
+"DescLangId": "Language80", 
+"RewardAndroid": "20|40|60|80|100", 
+"RewardTypesAndroid": "0|0|0|0|0", 
+"Values": "3|5|10|15|30", 
+"RewardTypesIOS": "0|0|0|0|0", 
+"TitleLangId": "Language69", 
+"Type": 2, 
+"id": 2, 
+"Icon": "achive-2"
+}, 
+{
+"RewardIOS": "10|20|30|40|50|60|70|80|90|100", 
+"DescLangId": "Language81", 
+"RewardAndroid": "10|20|30|40|50|60|70|80|90|100", 
+"RewardTypesAndroid": "0|0|0|0|0|0|0|0|0|0", 
+"Values": "10|50|100|200|500|750|1000|2000|5000|10000", 
+"RewardTypesIOS": "0|0|0|0|0|0|0|0|0|0", 
+"TitleLangId": "Language67", 
+"Type": 3, 
+"id": 3, 
+"Icon": "achive-3"
+}, 
+{
+"RewardIOS": "10|20|30|40|50|60|70|80|90|100", 
+"DescLangId": "Language82", 
+"RewardAndroid": "10|20|30|40|50|60|70|80|90|100", 
+"RewardTypesAndroid": "0|0|0|0|0|0|0|0|0|0", 
+"Values": "5|10|50|100|150|250|500|750|1000|2000", 
+"RewardTypesIOS": "0|0|0|0|0|0|0|0|0|0", 
+"TitleLangId": "Language68", 
+"Type": 4, 
+"id": 4, 
+"Icon": "achive-4"
+}, 
+{
+"RewardIOS": "20|30|40|50|60|70|80|100", 
+"DescLangId": "Language83", 
+"RewardAndroid": "20|30|40|50|60|70|80|100", 
+"RewardTypesAndroid": "0|0|0|0|0|0|0|0", 
+"Values": "1000|2500|5000|10000|50000|100000|500000|1000000", 
+"RewardTypesIOS": "0|0|0|0|0|0|0|0", 
+"TitleLangId": "Language71", 
+"Type": 5, 
+"id": 5, 
+"Icon": "achive-5"
+}, 
+{
+"RewardIOS": "10|20|30|40|50|60|70|80|90|100", 
+"DescLangId": "Language84", 
+"RewardAndroid": "10|20|30|40|50|60|70|80|90|100", 
+"RewardTypesAndroid": "0|0|0|0|0|0|0|0|0|0", 
+"Values": "50|100|150|200|250|300|350|400|450|500", 
+"RewardTypesIOS": "0|0|0|0|0|0|0|0|0|0", 
+"TitleLangId": "Language72", 
+"Type": 6, 
+"id": 6, 
+"Icon": "achive-6"
+}, 
+{
+"RewardIOS": "10|20|30|40|50|60|70|80|90|100", 
+"DescLangId": "Language85", 
+"RewardAndroid": "10|20|30|40|50|60|70|80|90|100", 
+"RewardTypesAndroid": "0|0|0|0|0|0|0|0|0|0", 
+"Values": "5|10|15|20|25|30|35|40|45|50", 
+"RewardTypesIOS": "0|0|0|0|0|0|0|0|0|0", 
+"TitleLangId": "Language70", 
+"Type": 7, 
+"id": 7, 
+"Icon": "achive-7"
+}, 
+{
+"RewardIOS": "20|30|40|50|60|70|80|100", 
+"DescLangId": "Language86", 
+"RewardAndroid": "20|30|40|50|60|70|80|100", 
+"RewardTypesAndroid": "0|0|0|0|0|0|0|0", 
+"Values": "5|10|20|50|100|200|350|500", 
+"RewardTypesIOS": "0|0|0|0|0|0|0|0", 
+"TitleLangId": "Language74", 
+"Type": 8, 
+"id": 8, 
+"Icon": "achive-8"
+}, 
+{
+"RewardIOS": "20|30|40|50|60|70|80|100", 
+"DescLangId": "Language91", 
+"RewardAndroid": "20|30|40|50|60|70|80|100", 
+"RewardTypesAndroid": "0|0|0|0|0|0|0|0", 
+"Values": "1000|2500|5000|10000|50000|100000|500000|1000000", 
+"RewardTypesIOS": "0|0|0|0|0|0|0|0", 
+"TitleLangId": "Language75", 
+"Type": 13, 
+"id": 9, 
+"Icon": "achive-13"
+}
+]

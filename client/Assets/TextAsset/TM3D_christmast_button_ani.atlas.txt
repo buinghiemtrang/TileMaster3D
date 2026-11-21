@@ -1,0 +1,62 @@
+
+TM3D_christmast_button_ani.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balls
+  rotate: false
+  xy: 326, 99
+  size: 106, 97
+  orig: 112, 104
+  offset: 4, 3
+  index: -1
+bell-1
+  rotate: false
+  xy: 434, 74
+  size: 59, 122
+  orig: 62, 123
+  offset: 1, 1
+  index: -1
+bell-2
+  rotate: true
+  xy: 326, 39
+  size: 58, 84
+  orig: 60, 85
+  offset: 1, 1
+  index: -1
+blue-glow
+  rotate: false
+  xy: 412, 38
+  size: 34, 34
+  orig: 42, 42
+  offset: 4, 4
+  index: -1
+pulbs
+  rotate: false
+  xy: 2, 9
+  size: 437, 27
+  orig: 440, 29
+  offset: 2, 1
+  index: -1
+red-glow
+  rotate: false
+  xy: 448, 38
+  size: 34, 34
+  orig: 40, 42
+  offset: 3, 4
+  index: -1
+snow
+  rotate: false
+  xy: 2, 69
+  size: 322, 127
+  orig: 325, 130
+  offset: 1, 2
+  index: -1
+yellow-glow
+  rotate: false
+  xy: 441, 2
+  size: 34, 34
+  orig: 41, 42
+  offset: 3, 4
+  index: -1

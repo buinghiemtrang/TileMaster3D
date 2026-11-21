@@ -1,0 +1,2491 @@
+{
+"1": [
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 1, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+]
+], 
+"Exp": 1, 
+"Type": 1, 
+"id": 1
+}, 
+{
+"freeReward": [
+[
+15, 
+1
+]
+], 
+"Grade": 2, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 1, 
+"Type": 1, 
+"id": 2
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 3, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 3
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 4, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 4
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 5, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": 3, 
+"CostReward": [
+[
+21, 
+1
+], 
+[
+0, 
+50
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 5
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"Grade": 6, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 6
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 7, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": 2, 
+"CostReward": [
+[
+21, 
+1
+], 
+[
+0, 
+50
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 7
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 8, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 8
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 9, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+2
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 9
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 10, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": 4, 
+"CostReward": [
+[
+0, 
+100
+], 
+[
+10, 
+1
+], 
+[
+21, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 10
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"Grade": 11, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 11
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 12, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 12
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"Grade": 13, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+1
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 13
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 14, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+14, 
+1
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 14
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 15, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": 5, 
+"CostReward": [
+[
+0, 
+200
+], 
+[
+10, 
+1
+], 
+[
+21, 
+2
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 15
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+]
+], 
+"Grade": 16, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 16
+}, 
+{
+"freeReward": [
+[
+11, 
+1
+]
+], 
+"Grade": 17, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+11, 
+2
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 17
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"Grade": 18, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+200
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 18
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 19, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+2
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 19
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+], 
+[
+12, 
+1
+]
+], 
+"Grade": 20, 
+"FreeBox": 6, 
+"GroupId": 1, 
+"CostBox": 8, 
+"CostReward": [
+[
+0, 
+300
+], 
+[
+11, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+]
+], 
+"Exp": 0, 
+"Type": 1, 
+"id": 20
+}, 
+{
+"Grade": 20, 
+"FreeBox": -1, 
+"GroupId": 1, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+1000
+], 
+[
+10, 
+1
+], 
+[
+15, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+]
+], 
+"Exp": 0, 
+"Type": 2, 
+"id": 21
+}
+], 
+"2": [
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 1, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+]
+], 
+"Exp": 1, 
+"Type": 1, 
+"id": 22
+}, 
+{
+"freeReward": [
+[
+15, 
+1
+]
+], 
+"Grade": 2, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 1, 
+"Type": 1, 
+"id": 23
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 3, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 24
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 4, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 25
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 5, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": 3, 
+"CostReward": [
+[
+21, 
+1
+], 
+[
+0, 
+50
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 26
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"Grade": 6, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 27
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 7, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": 2, 
+"CostReward": [
+[
+21, 
+1
+], 
+[
+0, 
+50
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 28
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 8, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 29
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 9, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+2
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 30
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 10, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": 4, 
+"CostReward": [
+[
+0, 
+100
+], 
+[
+10, 
+1
+], 
+[
+21, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 31
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"Grade": 11, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 32
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 12, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 33
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"Grade": 13, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+1
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 34
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 14, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+14, 
+1
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 35
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 15, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": 5, 
+"CostReward": [
+[
+0, 
+200
+], 
+[
+10, 
+1
+], 
+[
+21, 
+2
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 36
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+]
+], 
+"Grade": 16, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 37
+}, 
+{
+"freeReward": [
+[
+11, 
+1
+]
+], 
+"Grade": 17, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+11, 
+2
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 38
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"Grade": 18, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+200
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 39
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 19, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+2
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 40
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+], 
+[
+12, 
+1
+]
+], 
+"Grade": 20, 
+"FreeBox": 6, 
+"GroupId": 2, 
+"CostBox": 8, 
+"CostReward": [
+[
+0, 
+300
+], 
+[
+11, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+], 
+[
+23, 
+159
+]
+], 
+"Exp": 0, 
+"Type": 1, 
+"id": 41
+}, 
+{
+"Grade": 20, 
+"FreeBox": -1, 
+"GroupId": 2, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+1000
+], 
+[
+10, 
+1
+], 
+[
+15, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+]
+], 
+"Exp": 0, 
+"Type": 2, 
+"id": 42
+}
+], 
+"3": [
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 1, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+3
+]
+], 
+"Exp": 1, 
+"Type": 1, 
+"id": 43
+}, 
+{
+"freeReward": [
+[
+0, 
+10
+]
+], 
+"Grade": 2, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+50
+]
+], 
+"Exp": 1, 
+"Type": 1, 
+"id": 44
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 3, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 45
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 4, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": 3, 
+"CostReward": [
+[
+0, 
+50
+], 
+[
+21, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 46
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"Grade": 5, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 47
+}, 
+{
+"freeReward": [
+[
+0, 
+10
+]
+], 
+"Grade": 6, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 48
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 7, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 49
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 8, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": 2, 
+"CostReward": [
+[
+0, 
+100
+], 
+[
+21, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 50
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 9, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+14, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 51
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 10, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 52
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"Grade": 11, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 53
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+]
+], 
+"Grade": 12, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": 4, 
+"CostReward": [
+[
+0, 
+100
+], 
+[
+10, 
+1
+], 
+[
+21, 
+2
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 54
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"Grade": 13, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+2
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 55
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 14, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+11, 
+2
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 56
+}, 
+{
+"freeReward": [
+[
+0, 
+50
+]
+], 
+"Grade": 15, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": 5, 
+"CostReward": [
+[
+0, 
+200
+], 
+[
+10, 
+1
+], 
+[
+21, 
+2
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 57
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+]
+], 
+"Grade": 16, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 58
+}, 
+{
+"freeReward": [
+[
+11, 
+1
+]
+], 
+"Grade": 17, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+2
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 59
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"Grade": 18, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+200
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 60
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 19, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+2
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 61
+}, 
+{
+"freeReward": [
+[
+0, 
+50
+], 
+[
+10, 
+1
+], 
+[
+21, 
+2
+]
+], 
+"Grade": 20, 
+"FreeBox": 6, 
+"GroupId": 3, 
+"CostBox": 8, 
+"CostReward": [
+[
+0, 
+300
+], 
+[
+11, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+], 
+[
+23, 
+158
+]
+], 
+"Exp": 0, 
+"Type": 1, 
+"id": 62
+}, 
+{
+"Grade": 20, 
+"FreeBox": -1, 
+"GroupId": 3, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+1000
+], 
+[
+10, 
+1
+], 
+[
+15, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+]
+], 
+"Exp": 0, 
+"Type": 2, 
+"id": 63
+}
+], 
+"4": [
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 1, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+]
+], 
+"Exp": 1, 
+"Type": 1, 
+"id": 64
+}, 
+{
+"freeReward": [
+[
+15, 
+1
+]
+], 
+"Grade": 2, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 1, 
+"Type": 1, 
+"id": 65
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 3, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 66
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 4, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 67
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 5, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": 3, 
+"CostReward": [
+[
+21, 
+1
+], 
+[
+0, 
+50
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 68
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"Grade": 6, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 69
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 7, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": 2, 
+"CostReward": [
+[
+21, 
+1
+], 
+[
+0, 
+50
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 70
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 8, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 71
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 9, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+2
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 72
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 10, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": 4, 
+"CostReward": [
+[
+0, 
+100
+], 
+[
+10, 
+1
+], 
+[
+21, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 73
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"Grade": 11, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 74
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 12, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 75
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"Grade": 13, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+1
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 76
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 14, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+14, 
+1
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 77
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 15, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": 5, 
+"CostReward": [
+[
+0, 
+200
+], 
+[
+10, 
+1
+], 
+[
+21, 
+2
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 78
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+]
+], 
+"Grade": 16, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 79
+}, 
+{
+"freeReward": [
+[
+11, 
+1
+]
+], 
+"Grade": 17, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+11, 
+2
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 80
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"Grade": 18, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+200
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 81
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 19, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+2
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 82
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+], 
+[
+12, 
+1
+]
+], 
+"Grade": 20, 
+"FreeBox": 6, 
+"GroupId": 4, 
+"CostBox": 8, 
+"CostReward": [
+[
+0, 
+300
+], 
+[
+11, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+], 
+[
+23, 
+162
+]
+], 
+"Exp": 0, 
+"Type": 1, 
+"id": 83
+}, 
+{
+"Grade": 20, 
+"FreeBox": -1, 
+"GroupId": 4, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+1000
+], 
+[
+10, 
+1
+], 
+[
+15, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+]
+], 
+"Exp": 0, 
+"Type": 2, 
+"id": 84
+}
+], 
+"5": [
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 1, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+3
+]
+], 
+"Exp": 1, 
+"Type": 1, 
+"id": 85
+}, 
+{
+"freeReward": [
+[
+0, 
+10
+]
+], 
+"Grade": 2, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+50
+]
+], 
+"Exp": 1, 
+"Type": 1, 
+"id": 86
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 3, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 87
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 4, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+50
+], 
+[
+21, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 88
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"Grade": 5, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": 3, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 89
+}, 
+{
+"freeReward": [
+[
+0, 
+10
+]
+], 
+"Grade": 6, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 90
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 7, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": 2, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 2, 
+"Type": 1, 
+"id": 91
+}, 
+{
+"freeReward": [
+[
+21, 
+1
+]
+], 
+"Grade": 8, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+], 
+[
+21, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 92
+}, 
+{
+"freeReward": [
+[
+0, 
+20
+]
+], 
+"Grade": 9, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+14, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 93
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 10, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": 4, 
+"CostReward": [
+[
+10, 
+1
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 94
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"Grade": 11, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 95
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+]
+], 
+"Grade": 12, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+100
+], 
+[
+10, 
+1
+], 
+[
+21, 
+2
+]
+], 
+"Exp": 3, 
+"Type": 1, 
+"id": 96
+}, 
+{
+"freeReward": [
+[
+10, 
+1
+]
+], 
+"Grade": 13, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+2
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 97
+}, 
+{
+"freeReward": [
+[
+14, 
+1
+]
+], 
+"Grade": 14, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+11, 
+2
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 98
+}, 
+{
+"freeReward": [
+[
+0, 
+50
+]
+], 
+"Grade": 15, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": 5, 
+"CostReward": [
+[
+0, 
+200
+], 
+[
+10, 
+1
+], 
+[
+21, 
+2
+]
+], 
+"Exp": 4, 
+"Type": 1, 
+"id": 99
+}, 
+{
+"freeReward": [
+[
+21, 
+2
+]
+], 
+"Grade": 16, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+15, 
+1
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 100
+}, 
+{
+"freeReward": [
+[
+11, 
+1
+]
+], 
+"Grade": 17, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+21, 
+2
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 101
+}, 
+{
+"freeReward": [
+[
+12, 
+1
+]
+], 
+"Grade": 18, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+200
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 102
+}, 
+{
+"freeReward": [
+[
+0, 
+30
+]
+], 
+"Grade": 19, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+10, 
+2
+]
+], 
+"Exp": 5, 
+"Type": 1, 
+"id": 103
+}, 
+{
+"freeReward": [
+[
+0, 
+50
+], 
+[
+10, 
+1
+], 
+[
+21, 
+2
+]
+], 
+"Grade": 20, 
+"FreeBox": 6, 
+"GroupId": 5, 
+"CostBox": 8, 
+"CostReward": [
+[
+0, 
+300
+], 
+[
+11, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+], 
+[
+23, 
+163
+]
+], 
+"Exp": 0, 
+"Type": 1, 
+"id": 104
+}, 
+{
+"Grade": 20, 
+"FreeBox": -1, 
+"GroupId": 5, 
+"CostBox": -1, 
+"CostReward": [
+[
+0, 
+1000
+], 
+[
+10, 
+1
+], 
+[
+15, 
+1
+], 
+[
+14, 
+1
+], 
+[
+21, 
+3
+]
+], 
+"Exp": 0, 
+"Type": 2, 
+"id": 105
+}
+]
+}

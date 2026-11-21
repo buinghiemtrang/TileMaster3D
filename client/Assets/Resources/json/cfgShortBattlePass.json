@@ -1,0 +1,51 @@
+[
+{
+"CoolDownTime": 1, 
+"Reward": 1, 
+"Issue": "default", 
+"id": 1, 
+"KeepDuration": 15
+}, 
+{
+"CoolDownTime": 1, 
+"Reward": 2, 
+"Issue": "20220501000000", 
+"id": 2, 
+"KeepDuration": 15
+}, 
+{
+"CoolDownTime": 1, 
+"Reward": 3, 
+"Issue": "20220517000000", 
+"id": 3, 
+"KeepDuration": 15
+}, 
+{
+"CoolDownTime": 1, 
+"Reward": 1, 
+"Issue": "20220601000000", 
+"id": 4, 
+"KeepDuration": 14
+}, 
+{
+"CoolDownTime": 1, 
+"Reward": 1, 
+"Issue": "20220616000000", 
+"id": 5, 
+"KeepDuration": 15
+}, 
+{
+"CoolDownTime": 1, 
+"Reward": 4, 
+"Issue": "20220701000000", 
+"id": 6, 
+"KeepDuration": 15
+}, 
+{
+"CoolDownTime": 1, 
+"Reward": 5, 
+"Issue": "20220717000000", 
+"id": 7, 
+"KeepDuration": 15
+}
+]

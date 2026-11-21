@@ -1,0 +1,8 @@
+01a0546c	il2cpp_wbarrier
+01a054c8	il2cpp_init_metadata
+01a05638	il2cpp_class_init
+01a05768	il2cpp_new
+01a05774	il2cpp_throw_null
+01a05778	il2cpp_throw_index
+01a05770	il2cpp_throw_overflow
+01a05590	il2cpp_new_array

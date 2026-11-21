@@ -1,0 +1,328 @@
+[
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.008, 
+"EventName": "ad_iap_revenue_0008", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.01, 
+"EventName": "ad_iap_revenue_001", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.05, 
+"EventName": "ad_iap_revenue_005", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.08, 
+"EventName": "ad_iap_revenue_008", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.1, 
+"EventName": "ad_iap_revenue_01", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.2, 
+"EventName": "ad_iap_revenue_02", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"EventName": "ads_revenue_0002", 
+"Platform": 1, 
+"SdkType": 3, 
+"Version": "1.12.7", 
+"IaaValue": 0.002
+}, 
+{
+"EventName": "ads_revenue_0004", 
+"Platform": 1, 
+"SdkType": 3, 
+"Version": "1.12.7", 
+"IaaValue": 0.004
+}, 
+{
+"EventName": "ads_revenue_0006", 
+"Platform": 1, 
+"SdkType": 3, 
+"Version": "1.12.7", 
+"IaaValue": 0.006
+}, 
+{
+"EventName": "ads_revenue_0008", 
+"Platform": 1, 
+"SdkType": 3, 
+"Version": "1.12.7", 
+"IaaValue": 0.008
+}, 
+{
+"EventName": "ads_revenue_008", 
+"Platform": 1, 
+"SdkType": 3, 
+"Version": "1.12.7", 
+"IaaValue": 0.08
+}, 
+{
+"Version": "1.12.7", 
+"IaaValue": 0.01, 
+"EventName": "ads_revenue_001_Open_2", 
+"Platform": 1, 
+"FirstSevenDays": 2, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"Level": 5, 
+"IaaValue": 0.01, 
+"EventName": "ads_revenue_001_Level_5", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"AdReward": 1, 
+"IaaValue": 0.01, 
+"EventName": "ads_revenue_001_Reward_1", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"IaaValue": 0.01, 
+"EventName": "ads_revenue_001_Ins_2", 
+"Platform": 1, 
+"SdkType": 3, 
+"AdInter": 2
+}, 
+{
+"Version": "1.12.7", 
+"Level": 5, 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Level_5", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"Level": 10, 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Level_10", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"AdReward": 1, 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Reward_1", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Ins_2", 
+"Platform": 1, 
+"SdkType": 3, 
+"AdInter": 2
+}, 
+{
+"Version": "1.12.7", 
+"AdBanner": 10, 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Banner_10", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"AdBanner": 20, 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Banner_20", 
+"Platform": 1, 
+"SdkType": 3
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.008, 
+"EventName": "ad_iap_revenue_0008", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.01, 
+"EventName": "ad_iap_revenue_001", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.05, 
+"EventName": "ad_iap_revenue_005", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.08, 
+"EventName": "ad_iap_revenue_008", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.1, 
+"EventName": "ad_iap_revenue_01", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"IsPurchaseTrack": 1, 
+"IaaValue": 0.2, 
+"EventName": "ad_iap_revenue_02", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"EventName": "ads_revenue_0002", 
+"Platform": 1, 
+"SdkType": 2, 
+"Version": "1.12.7", 
+"IaaValue": 0.002
+}, 
+{
+"EventName": "ads_revenue_0004", 
+"Platform": 1, 
+"SdkType": 2, 
+"Version": "1.12.7", 
+"IaaValue": 0.004
+}, 
+{
+"EventName": "ads_revenue_0006", 
+"Platform": 1, 
+"SdkType": 2, 
+"Version": "1.12.7", 
+"IaaValue": 0.006
+}, 
+{
+"EventName": "ads_revenue_0008", 
+"Platform": 1, 
+"SdkType": 2, 
+"Version": "1.12.7", 
+"IaaValue": 0.008
+}, 
+{
+"EventName": "ads_revenue_008", 
+"Platform": 1, 
+"SdkType": 2, 
+"Version": "1.12.7", 
+"IaaValue": 0.08
+}, 
+{
+"Version": "1.12.7", 
+"IaaValue": 0.01, 
+"EventName": "ads_revenue_001_Open_2", 
+"Platform": 1, 
+"FirstSevenDays": 2, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"Level": 5, 
+"IaaValue": 0.01, 
+"EventName": "ads_revenue_001_Level_5", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"AdReward": 1, 
+"IaaValue": 0.01, 
+"EventName": "ads_revenue_001_Reward_1", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"IaaValue": 0.01, 
+"EventName": "ads_revenue_001_Ins_2", 
+"Platform": 1, 
+"SdkType": 2, 
+"AdInter": 2
+}, 
+{
+"Version": "1.12.7", 
+"Level": 5, 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Level_5", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"Level": 10, 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Level_10", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"AdReward": 1, 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Reward_1", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Ins_2", 
+"Platform": 1, 
+"SdkType": 2, 
+"AdInter": 2
+}, 
+{
+"Version": "1.12.7", 
+"AdBanner": 10, 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Banner_10", 
+"Platform": 1, 
+"SdkType": 2
+}, 
+{
+"Version": "1.12.7", 
+"AdBanner": 20, 
+"IaaValue": 0.05, 
+"EventName": "ads_revenue_005_Banner_20", 
+"Platform": 1, 
+"SdkType": 2
+}
+]

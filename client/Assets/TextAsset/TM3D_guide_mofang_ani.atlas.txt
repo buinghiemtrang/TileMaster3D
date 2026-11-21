@@ -1,0 +1,244 @@
+
+TM3D_guide_mofang_ani.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6-1
+  rotate: true
+  xy: 711, 393
+  size: 117, 127
+  orig: 119, 129
+  offset: 1, 1
+  index: -1
+6-2
+  rotate: false
+  xy: 840, 406
+  size: 101, 104
+  orig: 103, 106
+  offset: 1, 1
+  index: -1
+6-3
+  rotate: false
+  xy: 310, 10
+  size: 64, 105
+  orig: 65, 106
+  offset: 0, 1
+  index: -1
+A
+  rotate: false
+  xy: 2, 2
+  size: 107, 113
+  orig: 109, 115
+  offset: 1, 1
+  index: -1
+B-1
+  rotate: true
+  xy: 594, 400
+  size: 110, 115
+  orig: 112, 117
+  offset: 1, 1
+  index: -1
+B-3
+  rotate: false
+  xy: 214, 15
+  size: 94, 100
+  orig: 96, 102
+  offset: 1, 1
+  index: -1
+b-2
+  rotate: false
+  xy: 111, 10
+  size: 101, 105
+  orig: 103, 107
+  offset: 1, 1
+  index: -1
+cao
+  rotate: false
+  xy: 2, 400
+  size: 590, 110
+  orig: 590, 110
+  offset: 0, 0
+  index: -1
+di1
+  rotate: true
+  xy: 375, 118
+  size: 280, 278
+  orig: 282, 280
+  offset: 1, 1
+  index: -1
+di2-1
+  rotate: false
+  xy: 2, 117
+  size: 371, 281
+  orig: 373, 283
+  offset: 1, 1
+  index: -1
+shouzhi
+  rotate: true
+  xy: 836, 135
+  size: 87, 88
+  orig: 91, 91
+  offset: 2, 2
+  index: -1
+xiaochu_00076
+  rotate: false
+  xy: 940, 403
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xiaochu_00098
+  rotate: false
+  xy: 940, 403
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xiaochu_00077
+  rotate: false
+  xy: 985, 193
+  size: 31, 31
+  orig: 100, 100
+  offset: 31, 37
+  index: -1
+xiaochu_00078
+  rotate: true
+  xy: 844, 24
+  size: 50, 51
+  orig: 100, 100
+  offset: 22, 27
+  index: -1
+xiaochu_00079
+  rotate: false
+  xy: 844, 76
+  size: 56, 57
+  orig: 100, 100
+  offset: 19, 24
+  index: -1
+xiaochu_00080
+  rotate: false
+  xy: 940, 325
+  size: 67, 67
+  orig: 100, 100
+  offset: 13, 19
+  index: -1
+xiaochu_00081
+  rotate: false
+  xy: 655, 122
+  size: 76, 77
+  orig: 100, 100
+  offset: 9, 14
+  index: -1
+xiaochu_00082
+  rotate: false
+  xy: 943, 431
+  size: 79, 79
+  orig: 100, 100
+  offset: 7, 13
+  index: -1
+xiaochu_00083
+  rotate: false
+  xy: 757, 48
+  size: 85, 85
+  orig: 100, 100
+  offset: 4, 10
+  index: -1
+xiaochu_00084
+  rotate: false
+  xy: 902, 47
+  size: 85, 85
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+xiaochu_00085
+  rotate: false
+  xy: 936, 226
+  size: 86, 86
+  orig: 100, 100
+  offset: 3, 10
+  index: -1
+xiaochu_00086
+  rotate: false
+  xy: 575, 27
+  size: 89, 89
+  orig: 100, 100
+  offset: 2, 8
+  index: -1
+xiaochu_00087
+  rotate: false
+  xy: 752, 300
+  size: 91, 91
+  orig: 100, 100
+  offset: 1, 7
+  index: -1
+xiaochu_00088
+  rotate: false
+  xy: 744, 205
+  size: 90, 93
+  orig: 100, 100
+  offset: 5, 6
+  index: -1
+xiaochu_00089
+  rotate: true
+  xy: 666, 28
+  size: 92, 89
+  orig: 100, 100
+  offset: 5, 5
+  index: -1
+xiaochu_00090
+  rotate: false
+  xy: 845, 314
+  size: 93, 90
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+xiaochu_00091
+  rotate: false
+  xy: 655, 301
+  size: 95, 90
+  orig: 100, 100
+  offset: 4, 3
+  index: -1
+xiaochu_00092
+  rotate: false
+  xy: 376, 26
+  size: 97, 90
+  orig: 100, 100
+  offset: 3, 1
+  index: -1
+xiaochu_00093
+  rotate: true
+  xy: 655, 201
+  size: 98, 87
+  orig: 100, 100
+  offset: 2, 1
+  index: -1
+xiaochu_00094
+  rotate: false
+  xy: 475, 27
+  size: 98, 89
+  orig: 100, 100
+  offset: 2, 0
+  index: -1
+xiaochu_00095
+  rotate: true
+  xy: 845, 224
+  size: 88, 89
+  orig: 100, 100
+  offset: 3, 0
+  index: -1
+xiaochu_00096
+  rotate: true
+  xy: 926, 134
+  size: 88, 57
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+xiaochu_00097
+  rotate: false
+  xy: 943, 394
+  size: 73, 35
+  orig: 100, 100
+  offset: 19, 24
+  index: -1

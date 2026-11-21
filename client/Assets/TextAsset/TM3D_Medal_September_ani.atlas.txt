@@ -1,0 +1,55 @@
+
+TM3D_Medal_September_ani.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leaf1
+  rotate: false
+  xy: 329, 141
+  size: 69, 107
+  orig: 74, 109
+  offset: 1, 1
+  index: -1
+background
+  rotate: true
+  xy: 2, 40
+  size: 208, 207
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 211, 78
+  size: 116, 170
+  orig: 117, 171
+  offset: 0, 1
+  index: -1
+leaf2
+  rotate: true
+  xy: 370, 70
+  size: 69, 107
+  orig: 74, 109
+  offset: 4, 1
+  index: -1
+ribbon
+  rotate: false
+  xy: 211, 2
+  size: 157, 74
+  orig: 159, 75
+  offset: 1, 0
+  index: -1
+ribbon1
+  rotate: false
+  xy: 370, 4
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+ribbon2
+  rotate: true
+  xy: 400, 167
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1

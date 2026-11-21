@@ -1,0 +1,44 @@
+# Unity (client/)
+client/[Ll]ibrary/
+client/[Tt]emp/
+client/[Oo]bj/
+client/[Bb]uild/
+client/[Bb]uilds/
+client/[Ll]ogs/
+client/[Uu]ser[Ss]ettings/
+client/[Mm]emoryCaptures/
+client/[Rr]ecordings/
+client/.utmp/
+
+# Visual Studio / Rider / VS Code / OS
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# Build artifacts & logs
+*.apk
+*.aab
+*.unitypackage
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Large local reference videos
+videos/

@@ -1,0 +1,104 @@
+
+TM3D_Medal_Victory_04_ani.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1
+  rotate: false
+  xy: 110, 8
+  size: 86, 115
+  orig: 86, 115
+  offset: 0, 0
+  index: -1
+L2
+  rotate: false
+  xy: 493, 42
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+L3
+  rotate: false
+  xy: 286, 43
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+R1
+  rotate: false
+  xy: 198, 8
+  size: 86, 115
+  orig: 86, 115
+  offset: 0, 0
+  index: -1
+R2
+  rotate: false
+  xy: 552, 42
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+R3
+  rotate: false
+  xy: 362, 43
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 611, 58
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+gem
+  rotate: true
+  xy: 438, 30
+  size: 93, 53
+  orig: 95, 53
+  offset: 1, 0
+  index: -1
+gem1
+  rotate: false
+  xy: 12, 6
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+gem2
+  rotate: false
+  xy: 2, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+gem3
+  rotate: false
+  xy: 20, 6
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 611, 5
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+zhong
+  rotate: true
+  xy: 2, 16
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+zhong-gem
+  rotate: false
+  xy: 286, 5
+  size: 98, 36
+  orig: 102, 41
+  offset: 4, 1
+  index: -1

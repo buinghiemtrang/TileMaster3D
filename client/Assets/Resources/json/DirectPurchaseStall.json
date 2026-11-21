@@ -1,0 +1,36 @@
+[
+{
+"stall": 1, 
+"id": 1, 
+"failBannerGiftIds": [
+1, 
+2
+]
+}, 
+{
+"stall": 2, 
+"id": 2, 
+"failBannerGiftIds": [
+2, 
+3
+]
+}, 
+{
+"stall": 3, 
+"id": 3, 
+"failBannerGiftIds": [
+3, 
+4
+]
+}, 
+{
+"stall": 4, 
+"id": 4, 
+"failBannerGiftIds": [
+4, 
+5
+]
+}, 
+{}, 
+{}
+]

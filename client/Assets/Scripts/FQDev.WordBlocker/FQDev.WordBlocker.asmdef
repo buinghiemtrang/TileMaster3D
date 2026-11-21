@@ -1,0 +1,8 @@
+{
+  "name": "FQDev.WordBlocker",
+  "references": [
+    "Unity.TextMeshPro",
+    "UnityEngine.UI"
+  ],
+  "allowUnsafeCode": true
+}

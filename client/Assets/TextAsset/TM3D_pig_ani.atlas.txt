@@ -1,0 +1,20 @@
+
+TM3D_pig_ani.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: true
+  xy: 2, 2
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+pig
+  rotate: false
+  xy: 2, 60
+  size: 265, 266
+  orig: 266, 267
+  offset: 1, 0
+  index: -1

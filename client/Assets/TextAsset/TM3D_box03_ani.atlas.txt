@@ -1,0 +1,181 @@
+
+TM3D_box03_ani.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom_1
+  rotate: false
+  xy: 526, 646
+  size: 201, 196
+  orig: 203, 198
+  offset: 1, 1
+  index: -1
+bottom_2
+  rotate: false
+  xy: 647, 169
+  size: 211, 118
+  orig: 213, 120
+  offset: 1, 1
+  index: -1
+bottom_3
+  rotate: false
+  xy: 440, 378
+  size: 232, 120
+  orig: 234, 122
+  offset: 1, 1
+  index: -1
+bottom_4
+  rotate: false
+  xy: 440, 252
+  size: 205, 124
+  orig: 207, 126
+  offset: 1, 1
+  index: -1
+bottom_5
+  rotate: true
+  xy: 930, 339
+  size: 216, 91
+  orig: 218, 93
+  offset: 1, 1
+  index: -1
+bottom_6
+  rotate: true
+  xy: 2, 218
+  size: 227, 129
+  orig: 229, 131
+  offset: 1, 1
+  index: -1
+bottom_7
+  rotate: false
+  xy: 729, 557
+  size: 217, 145
+  orig: 219, 147
+  offset: 1, 1
+  index: -1
+bottom_8
+  rotate: false
+  xy: 729, 704
+  size: 235, 138
+  orig: 237, 140
+  offset: 1, 1
+  index: -1
+close_1
+  rotate: false
+  xy: 133, 241
+  size: 194, 125
+  orig: 194, 125
+  offset: 0, 0
+  index: -1
+close_2
+  rotate: false
+  xy: 674, 289
+  size: 203, 134
+  orig: 203, 134
+  offset: 0, 0
+  index: -1
+close_3
+  rotate: false
+  xy: 704, 425
+  size: 224, 130
+  orig: 224, 131
+  offset: 0, 1
+  index: -1
+close_4
+  rotate: true
+  xy: 879, 135
+  size: 202, 133
+  orig: 202, 135
+  offset: 0, 2
+  index: -1
+close_5
+  rotate: false
+  xy: 253, 514
+  size: 229, 161
+  orig: 230, 163
+  offset: 1, 1
+  index: -1
+close_6
+  rotate: false
+  xy: 223, 368
+  size: 215, 144
+  orig: 215, 145
+  offset: 0, 0
+  index: -1
+close_7
+  rotate: false
+  xy: 2, 447
+  size: 219, 158
+  orig: 219, 159
+  offset: 0, 1
+  index: -1
+close_8
+  rotate: false
+  xy: 2, 607
+  size: 249, 235
+  orig: 250, 236
+  offset: 1, 1
+  index: -1
+glow
+  rotate: true
+  xy: 327, 17
+  size: 109, 110
+  orig: 109, 110
+  offset: 0, 0
+  index: -1
+open_1
+  rotate: true
+  xy: 329, 190
+  size: 176, 106
+  orig: 176, 106
+  offset: 0, 0
+  index: -1
+open_2
+  rotate: false
+  xy: 813, 22
+  size: 184, 111
+  orig: 184, 111
+  offset: 0, 0
+  index: -1
+open_3
+  rotate: false
+  xy: 133, 115
+  size: 192, 124
+  orig: 192, 124
+  offset: 0, 0
+  index: -1
+open_4
+  rotate: true
+  xy: 2, 2
+  size: 214, 111
+  orig: 215, 111
+  offset: 1, 0
+  index: -1
+open_5
+  rotate: false
+  xy: 437, 128
+  size: 188, 122
+  orig: 188, 122
+  offset: 0, 0
+  index: -1
+open_6
+  rotate: false
+  xy: 627, 52
+  size: 184, 115
+  orig: 184, 116
+  offset: 0, 0
+  index: -1
+open_7
+  rotate: false
+  xy: 484, 500
+  size: 218, 144
+  orig: 218, 145
+  offset: 0, 1
+  index: -1
+open_8
+  rotate: false
+  xy: 253, 677
+  size: 271, 165
+  orig: 271, 166
+  offset: 0, 1
+  index: -1

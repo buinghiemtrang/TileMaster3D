@@ -1,0 +1,97 @@
+
+TM3D_Medal_Christmas_04_ani.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: true
+  xy: 419, 25
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+bell
+  rotate: true
+  xy: 549, 62
+  size: 64, 51
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+cricle
+  rotate: false
+  xy: 319, 28
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+cricle2
+  rotate: false
+  xy: 2, 9
+  size: 117, 117
+  orig: 121, 121
+  offset: 2, 2
+  index: -1
+glow
+  rotate: false
+  xy: 619, 37
+  size: 37, 37
+  orig: 64, 64
+  offset: 13, 15
+  index: -1
+hat
+  rotate: true
+  xy: 602, 76
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+leave
+  rotate: true
+  xy: 121, 3
+  size: 123, 99
+  orig: 123, 110
+  offset: 0, 0
+  index: -1
+leave1
+  rotate: false
+  xy: 319, 8
+  size: 14, 18
+  orig: 19, 18
+  offset: 2, 0
+  index: -1
+point
+  rotate: true
+  xy: 2, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 498, 52
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+snowman
+  rotate: false
+  xy: 222, 16
+  size: 95, 110
+  orig: 105, 111
+  offset: 0, 1
+  index: -1
+tree
+  rotate: true
+  xy: 498, 11
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+tree1
+  rotate: false
+  xy: 567, 2
+  size: 50, 58
+  orig: 52, 60
+  offset: 1, 1
+  index: -1

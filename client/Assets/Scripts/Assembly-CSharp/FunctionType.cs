@@ -1,0 +1,26 @@
+public enum FunctionType
+{
+	None = 0,
+	Recall = 1,
+	Victories = 2,
+	StarRanking = 3,
+	TreasureHunt = 4,
+	Gift = 5,
+	MonthRanking = 6,
+	RoyalPass = 7,
+	SignBoard = 8,
+	GamePark = 9,
+	Pig = 10,
+	Mail = 11,
+	StorePromotions = 12,
+	BakingMaster = 13,
+	Recharge = 14,
+	RoadToRiches = 15,
+	LuckyPrize = 16,
+	Notices = 17,
+	ShortBattlePass = 18,
+	RegionRank = 19,
+	GiftNoAds = 20,
+	WheelAds = 21,
+	RewardAdView = 22
+}

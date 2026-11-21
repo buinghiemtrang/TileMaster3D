@@ -1,0 +1,125 @@
+
+TM3D_bottom_crown_loop_ani.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Point29
+  rotate: false
+  xy: 227, 81
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+TM3D_CROWN/C_00
+  rotate: true
+  xy: 118, 33
+  size: 8, 59
+  orig: 128, 128
+  offset: 7, 45
+  index: -1
+TM3D_CROWN/C_01
+  rotate: true
+  xy: 2, 9
+  size: 19, 75
+  orig: 128, 128
+  offset: 6, 39
+  index: -1
+TM3D_CROWN/C_02
+  rotate: true
+  xy: 134, 2
+  size: 29, 84
+  orig: 128, 128
+  offset: 6, 33
+  index: -1
+TM3D_CROWN/C_03
+  rotate: false
+  xy: 229, 164
+  size: 39, 90
+  orig: 128, 128
+  offset: 6, 27
+  index: -1
+TM3D_CROWN/C_04
+  rotate: false
+  xy: 176, 47
+  size: 49, 96
+  orig: 128, 128
+  offset: 7, 21
+  index: -1
+TM3D_CROWN/C_05
+  rotate: false
+  xy: 118, 43
+  size: 56, 102
+  orig: 128, 128
+  offset: 10, 15
+  index: -1
+TM3D_CROWN/C_06
+  rotate: false
+  xy: 118, 147
+  size: 56, 107
+  orig: 128, 128
+  offset: 20, 10
+  index: -1
+TM3D_CROWN/C_07
+  rotate: false
+  xy: 60, 31
+  size: 56, 110
+  orig: 128, 128
+  offset: 30, 8
+  index: -1
+TM3D_CROWN/C_08
+  rotate: false
+  xy: 2, 143
+  size: 56, 111
+  orig: 128, 128
+  offset: 40, 8
+  index: -1
+TM3D_CROWN/C_09
+  rotate: false
+  xy: 2, 30
+  size: 56, 111
+  orig: 128, 128
+  offset: 50, 8
+  index: -1
+TM3D_CROWN/C_10
+  rotate: false
+  xy: 60, 143
+  size: 56, 111
+  orig: 128, 128
+  offset: 60, 8
+  index: -1
+TM3D_CROWN/C_11
+  rotate: false
+  xy: 176, 145
+  size: 51, 109
+  orig: 128, 128
+  offset: 70, 9
+  index: -1
+TM3D_CROWN/C_12
+  rotate: true
+  xy: 220, 4
+  size: 41, 102
+  orig: 128, 128
+  offset: 81, 16
+  index: -1
+TM3D_CROWN/C_13
+  rotate: true
+  xy: 227, 48
+  size: 31, 93
+  orig: 128, 128
+  offset: 91, 22
+  index: -1
+TM3D_CROWN/C_14
+  rotate: true
+  xy: 79, 8
+  size: 21, 53
+  orig: 128, 128
+  offset: 101, 27
+  index: -1
+TM3D_CROWN/C_15
+  rotate: true
+  xy: 179, 35
+  size: 10, 36
+  orig: 128, 128
+  offset: 111, 36
+  index: -1

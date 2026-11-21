@@ -1,0 +1,830 @@
+[
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 1, 
+"Icon": "master-logo", 
+"Type": 1, 
+"ID": 0, 
+"Desc": "Language294"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 2, 
+"Icon": "level-1", 
+"Type": 1, 
+"ID": 1, 
+"Desc": "Language294"
+}, 
+{
+"Count": 150, 
+"IconPrefab": "", 
+"Lv": 3, 
+"Icon": "level-2", 
+"Type": 1, 
+"ID": 2, 
+"Desc": "Language294"
+}, 
+{
+"Count": 800, 
+"IconPrefab": "", 
+"Lv": 4, 
+"Icon": "level-3", 
+"Type": 1, 
+"ID": 3, 
+"Desc": "Language294"
+}, 
+{
+"Count": 3800, 
+"IconPrefab": "", 
+"Lv": 5, 
+"Icon": "level-4", 
+"Type": 1, 
+"ID": 4, 
+"Desc": "Language294"
+}, 
+{
+"Count": 13990, 
+"IconPrefab": "", 
+"Lv": 6, 
+"Icon": "level-5", 
+"Type": 1, 
+"ID": 5, 
+"Desc": "Language294"
+}, 
+{
+"Count": 17990, 
+"IconPrefab": "", 
+"Lv": 7, 
+"Icon": "level-6", 
+"Type": 1, 
+"ID": 6, 
+"Desc": "Language294"
+}, 
+{
+"Count": 20190, 
+"IconPrefab": "", 
+"Lv": 8, 
+"Icon": "level-7", 
+"Type": 1, 
+"ID": 7, 
+"Desc": "Language294"
+}, 
+{
+"Count": 50990, 
+"IconPrefab": "", 
+"Lv": 9, 
+"Icon": "level-8", 
+"Type": 1, 
+"ID": 8, 
+"Desc": "Language294"
+}, 
+{
+"Count": 60490, 
+"IconPrefab": "", 
+"Lv": 10, 
+"Icon": "level-9", 
+"Type": 1, 
+"ID": 9, 
+"Desc": "Language294"
+}, 
+{
+"Count": 66790, 
+"IconPrefab": "", 
+"Lv": 11, 
+"Icon": "level-10", 
+"Type": 1, 
+"ID": 10, 
+"Desc": "Language294"
+}, 
+{
+"Count": 77790, 
+"IconPrefab": "", 
+"Lv": 12, 
+"Icon": "level-11", 
+"Type": 1, 
+"ID": 11, 
+"Desc": "Language294"
+}, 
+{
+"Count": 92790, 
+"IconPrefab": "", 
+"Lv": 13, 
+"Icon": "level-12", 
+"Type": 1, 
+"ID": 12, 
+"Desc": "Language294"
+}, 
+{
+"Count": 104990, 
+"IconPrefab": "", 
+"Lv": 14, 
+"Icon": "level-13", 
+"Type": 1, 
+"ID": 13, 
+"Desc": "Language294"
+}, 
+{
+"Count": 144790, 
+"IconPrefab": "", 
+"Lv": 15, 
+"Icon": "level-14", 
+"Type": 1, 
+"ID": 14, 
+"Desc": "Language294"
+}, 
+{
+"Count": 153790, 
+"IconPrefab": "", 
+"Lv": 16, 
+"Icon": "level-15", 
+"Type": 1, 
+"ID": 15, 
+"Desc": "Language294"
+}, 
+{
+"Count": 175660, 
+"IconPrefab": "", 
+"Lv": 17, 
+"Icon": "level-16", 
+"Type": 1, 
+"ID": 16, 
+"Desc": "Language294"
+}, 
+{
+"Count": 217990, 
+"IconPrefab": "", 
+"Lv": 18, 
+"Icon": "level-17", 
+"Type": 1, 
+"ID": 17, 
+"Desc": "Language294"
+}, 
+{
+"Count": 294190, 
+"IconPrefab": "", 
+"Lv": 19, 
+"Icon": "level-18", 
+"Type": 1, 
+"ID": 18, 
+"Desc": "Language294"
+}, 
+{
+"Count": 349390, 
+"IconPrefab": "", 
+"Lv": 20, 
+"Icon": "level-19", 
+"Type": 1, 
+"ID": 19, 
+"Desc": "Language294"
+}, 
+{
+"Count": 521590, 
+"IconPrefab": "", 
+"Lv": 21, 
+"Icon": "level-20", 
+"Type": 1, 
+"ID": 20, 
+"Desc": "Language294"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 1, 
+"Icon": "level-101", 
+"Type": 2, 
+"ID": 101, 
+"Desc": "Medal_October5"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 2, 
+"Icon": "level-102", 
+"Type": 2, 
+"ID": 102, 
+"Desc": "Language417"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 3, 
+"Icon": "level-103", 
+"Type": 2, 
+"ID": 103, 
+"Desc": "Language387"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 4, 
+"Icon": "level-104", 
+"Type": 2, 
+"ID": 104, 
+"Desc": "Medal_October7"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 5, 
+"Icon": "level-105", 
+"Type": 2, 
+"ID": 105, 
+"Desc": "Language378"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 6, 
+"Icon": "level-106", 
+"Type": 2, 
+"ID": 106, 
+"Desc": "Language386"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 7, 
+"Icon": "level-107", 
+"Type": 2, 
+"ID": 107, 
+"Desc": "Medal_October6"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 8, 
+"Icon": "level-108", 
+"Type": 2, 
+"ID": 108, 
+"Desc": "Language379"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 9, 
+"Icon": "level-109", 
+"Type": 2, 
+"ID": 109, 
+"Desc": "Language385"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 10, 
+"Icon": "level-110", 
+"Type": 2, 
+"ID": 110, 
+"Desc": "Language389"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_1", 
+"Lv": 11, 
+"Icon": "level-111", 
+"Type": 2, 
+"ID": 111, 
+"Desc": "Language384"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_2", 
+"Lv": 12, 
+"Icon": "level-112", 
+"Type": 2, 
+"ID": 112, 
+"Desc": "Language388"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 13, 
+"Icon": "level-113", 
+"Type": 2, 
+"ID": 113, 
+"Desc": "Language380"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 14, 
+"Icon": "level-114", 
+"Type": 2, 
+"ID": 114, 
+"Desc": "Language381"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 15, 
+"Icon": "level-115", 
+"Type": 2, 
+"ID": 115, 
+"Desc": "Language382"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 16, 
+"Icon": "level-116", 
+"Type": 2, 
+"ID": 116, 
+"Desc": "Language383"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_117", 
+"Lv": 17, 
+"Icon": "level-117", 
+"Type": 2, 
+"ID": 117, 
+"Desc": "Language418"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_118", 
+"Lv": 18, 
+"Icon": "level-118", 
+"Type": 2, 
+"ID": 118, 
+"Desc": "Language419"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_119", 
+"Lv": 19, 
+"Icon": "level-119", 
+"Type": 2, 
+"ID": 119, 
+"Desc": "Medal_October4"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_120", 
+"Lv": 20, 
+"Icon": "level-120", 
+"Type": 2, 
+"ID": 120, 
+"Desc": "Medal_October3"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_121", 
+"Lv": 21, 
+"Icon": "level-121", 
+"Type": 2, 
+"ID": 121, 
+"Desc": "Medal_October2"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_122", 
+"Lv": 22, 
+"Icon": "level-122", 
+"Type": 2, 
+"ID": 122, 
+"Desc": "Medal_October1"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_123", 
+"Lv": 23, 
+"Icon": "level-123", 
+"Type": 2, 
+"ID": 123, 
+"Desc": "Medal_November1"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 24, 
+"Icon": "level-124", 
+"Type": 2, 
+"ID": 124, 
+"Desc": "Medal_December1"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 25, 
+"Icon": "level-125", 
+"Type": 2, 
+"ID": 125, 
+"Desc": "Medal_December3"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 26, 
+"Icon": "level-126", 
+"Type": 2, 
+"ID": 126, 
+"Desc": "Medal_December2"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_127", 
+"Lv": 27, 
+"Icon": "level-127", 
+"Type": 2, 
+"ID": 127, 
+"Desc": "Medal_December7"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_128", 
+"Lv": 28, 
+"Icon": "level-128", 
+"Type": 2, 
+"ID": 128, 
+"Desc": "Medal_December6"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_129", 
+"Lv": 29, 
+"Icon": "level-129", 
+"Type": 2, 
+"ID": 129, 
+"Desc": "Medal_December5"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_130", 
+"Lv": 30, 
+"Icon": "level-130", 
+"Type": 2, 
+"ID": 130, 
+"Desc": "Medal_December4"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_131", 
+"Lv": 31, 
+"Icon": "level-131", 
+"Type": 2, 
+"ID": 131, 
+"Desc": "Language378"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_132", 
+"Lv": 32, 
+"Icon": "level-132", 
+"Type": 2, 
+"ID": 132, 
+"Desc": "Language379"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_133", 
+"Lv": 33, 
+"Icon": "level-133", 
+"Type": 2, 
+"ID": 133, 
+"Desc": "Language380"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_134", 
+"Lv": 34, 
+"Icon": "level-134", 
+"Type": 2, 
+"ID": 134, 
+"Desc": "Language381"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_135", 
+"Lv": 35, 
+"Icon": "level-135", 
+"Type": 2, 
+"ID": 135, 
+"Desc": "Language382"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "MedalIcon_136", 
+"Lv": 36, 
+"Icon": "level-136", 
+"Type": 2, 
+"ID": 136, 
+"Desc": "Language383"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 37, 
+"Icon": "level-137", 
+"Type": 2, 
+"ID": 137, 
+"Desc": "Medal_December1"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 38, 
+"Icon": "level-138", 
+"Type": 2, 
+"ID": 138, 
+"Desc": "Medal_December2"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 39, 
+"Icon": "level-139", 
+"Type": 2, 
+"ID": 139, 
+"Desc": "Medal_December3"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 40, 
+"Icon": "level-140", 
+"Type": 2, 
+"ID": 140, 
+"Desc": "Language380"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 41, 
+"Icon": "level-141", 
+"Type": 2, 
+"ID": 141, 
+"Desc": "Language381"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 42, 
+"Icon": "level-142", 
+"Type": 2, 
+"ID": 142, 
+"Desc": "Language382"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 43, 
+"Icon": "level-143", 
+"Type": 2, 
+"ID": 143, 
+"Desc": "Language383"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 44, 
+"Icon": "level-144", 
+"Type": 2, 
+"ID": 144, 
+"Desc": "Medal_December2"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 45, 
+"Icon": "level-145", 
+"Type": 2, 
+"ID": 145, 
+"Desc": "Medal_December3"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 46, 
+"Icon": "level-146", 
+"Type": 2, 
+"ID": 146, 
+"Desc": "Medal_December7"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 47, 
+"Icon": "level-147", 
+"Type": 2, 
+"ID": 147, 
+"Desc": "Medal_December6"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 48, 
+"Icon": "level-148", 
+"Type": 2, 
+"ID": 148, 
+"Desc": "Medal_December5"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 49, 
+"Icon": "level-149", 
+"Type": 2, 
+"ID": 149, 
+"Desc": "Medal_December4"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 53, 
+"Icon": "level-150", 
+"Type": 2, 
+"ID": 150, 
+"Desc": "Medal_April3"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 50, 
+"Icon": "level-151", 
+"Type": 2, 
+"ID": 151, 
+"Desc": "Medal_April4"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 51, 
+"Icon": "level-152", 
+"Type": 2, 
+"ID": 152, 
+"Desc": "Medal_April5"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 52, 
+"Icon": "level-153", 
+"Type": 2, 
+"ID": 153, 
+"Desc": "Medal_April6"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 54, 
+"Icon": "level-154", 
+"Type": 2, 
+"ID": 154, 
+"Desc": "Medal_April10"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 55, 
+"Icon": "level-155", 
+"Type": 2, 
+"ID": 155, 
+"Desc": "Medal_April9"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 56, 
+"Icon": "level-156", 
+"Type": 2, 
+"ID": 156, 
+"Desc": "Medal_April8"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 57, 
+"Icon": "level-157", 
+"Type": 2, 
+"ID": 157, 
+"Desc": "Medal_April7"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 58, 
+"Icon": "level-158", 
+"Type": 2, 
+"ID": 158, 
+"Desc": "Medal_April2"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 59, 
+"Icon": "level-159", 
+"Type": 2, 
+"ID": 159, 
+"Desc": "Medal_April1"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 60, 
+"Icon": "level-160", 
+"Type": 2, 
+"ID": 160, 
+"Desc": "Medal_April11"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 61, 
+"Icon": "level-161", 
+"Type": 2, 
+"ID": 161, 
+"Desc": "Medal_June1"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 62, 
+"Icon": "level-162", 
+"Type": 2, 
+"ID": 162, 
+"Desc": "Medal_June2"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 63, 
+"Icon": "level-163", 
+"Type": 2, 
+"ID": 163, 
+"Desc": "Medal_June3"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 64, 
+"Icon": "level-164", 
+"Type": 2, 
+"ID": 164, 
+"Desc": "Medal_June4"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 65, 
+"Icon": "level-165", 
+"Type": 2, 
+"ID": 165, 
+"Desc": "Medal_June5"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 66, 
+"Icon": "level-166", 
+"Type": 2, 
+"ID": 166, 
+"Desc": "Medal_June6"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 67, 
+"Icon": "level-167", 
+"Type": 2, 
+"ID": 167, 
+"Desc": "Medal_June7"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 68, 
+"Icon": "level-168", 
+"Type": 2, 
+"ID": 168, 
+"Desc": "Medal_June8"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 69, 
+"Icon": "level-169", 
+"Type": 2, 
+"ID": 169, 
+"Desc": "Medal_June9"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 70, 
+"Icon": "level-170", 
+"Type": 2, 
+"ID": 170, 
+"Desc": "Medal_June10"
+}, 
+{
+"Count": 0, 
+"IconPrefab": "", 
+"Lv": 71, 
+"Icon": "level-171", 
+"Type": 2, 
+"ID": 171, 
+"Desc": "Medal_June11"
+}
+]

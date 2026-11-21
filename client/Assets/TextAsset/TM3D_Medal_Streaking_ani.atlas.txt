@@ -1,0 +1,69 @@
+
+TM3D_Medal_Streaking_ani.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_Bowknot1
+  rotate: true
+  xy: 643, 156
+  size: 96, 83
+  orig: 96, 89
+  offset: 0, 3
+  index: -1
+4_Bowknot2
+  rotate: false
+  xy: 728, 164
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+4_Bowknot3
+  rotate: true
+  xy: 556, 142
+  size: 110, 85
+  orig: 114, 87
+  offset: 2, 2
+  index: -1
+4_Bowknot4
+  rotate: true
+  xy: 644, 58
+  size: 96, 81
+  orig: 96, 87
+  offset: 0, 3
+  index: -1
+4_Bowknot5
+  rotate: false
+  xy: 727, 65
+  size: 76, 89
+  orig: 81, 106
+  offset: 0, 17
+  index: -1
+4_Bowknot6
+  rotate: true
+  xy: 556, 33
+  size: 107, 86
+  orig: 110, 87
+  offset: 2, 1
+  index: -1
+4_frame
+  rotate: true
+  xy: 2, 2
+  size: 250, 241
+  orig: 251, 241
+  offset: 1, 0
+  index: -1
+4_gem
+  rotate: false
+  xy: 245, 57
+  size: 178, 195
+  orig: 180, 196
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 425, 56
+  size: 129, 196
+  orig: 129, 196
+  offset: 0, 0
+  index: -1

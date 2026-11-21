@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbc6d56efb25fa294606be41f4a7d6b1, type: 3}
+  m_Name: HyperbidSetting
+  m_EditorClassIdentifier:
+  android:
+    AppID: j1d3067e0d7d9c3d
+    APPKey: j075155ed82d1e1754cc93303643734f3b03d2f77
+    AdmobAppID: ca-app-pub-8252390069143459~4122184396
+    RewardUnitID: k27e76b905dd3514
+    InterstitialID: k67cdf8812afe520
+    BannerID: k4407d7a089305ea
+    TopBannerID: ke25e102a555c6a4
+    ApsAppID: ae7af798-bec4-45b0-8f66-bfb6fdb91f49
+    ApsRewardUUID: fe95ccd6-8b25-4df8-95fb-18922ed28871
+    ApsInterstitialUUID: 010168b0-2ed4-451a-81af-4cba3ee0f2c9
+    ApsBannerUUID: 0092a457-39a6-4764-ac98-e0f76152e32c
+    TopApsBannerUUID: d596abe5-be44-4418-8652-da18ff0983f8

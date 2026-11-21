@@ -1,0 +1,12 @@
+{
+"DailyAutoPopMaxCount": 3, 
+"OutGameAutoPopConditionUnlocklv": 6, 
+"IsUseFollowConfig": 1, 
+"UnlockNoadsLv": 6, 
+"TriggerPositions": [
+3, 
+4, 
+6
+], 
+"AutoPopPlayInterstitialCountCondition": "6:1|8:3"
+}

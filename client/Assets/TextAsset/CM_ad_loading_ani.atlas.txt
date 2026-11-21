@@ -1,0 +1,20 @@
+
+CM_ad_loading_ani.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle1
+  rotate: false
+  xy: 2, 2
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+circle2
+  rotate: false
+  xy: 41, 4
+  size: 35, 35
+  orig: 37, 37
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,5 @@
+{
+"_doc": "metadata-usage slot cell value (rva) that script.json has no name for -> name. Build specific.",
+"70b7ad8": "il2cpp_defaults",
+"_basis": {"70b7ad8": "il2cpp_get_corlib() (0x19f3e10) returns **slot where the slot cell holds this address, so this is the Il2CppDefaults struct (first field corlib). Fields used by managed code: +0x14,+0x24,+0x34,+0x3c,+0x40,+0x48,+0x70 (Il2CppClass* of corlib types; which type is which is NOT verified)."}
+}

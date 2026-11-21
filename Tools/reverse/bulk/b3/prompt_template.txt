@@ -1,0 +1,17 @@
+Task (reply/report in Vietnamese): port C# stub method bodies from Ghidra native pseudocode for the IL2CPP Unity game rebuild "__GAME__". Work autonomously; be systematic; do not ask questions.
+
+PROJ=__PROJ__
+WORK=__WORK__
+Group: __GROUP__ . Native pseudocode (name-resolved) for this group: WORK/ghidra/b3/__GROUP__/*.named.c (one file per class; use .named.c only). The class list is in WORK/ghidra/b3-__GROUP__.tsv (address<TAB>Namespace.Class$$Method).
+C# sources: PROJ/Assets/Scripts/** (find each class's file by class name; one class per file mostly).
+
+What to do:
+- For every class that has a .named.c file: open its C# file; for each method/property/ctor whose body is a stub (empty, or only `return null/default/false/0`), translate the native body faithfully into C#. Leave already-implemented members unchanged (they were ported earlier and verified).
+- Map field offsets to the existing C# fields by declaration order/types (read the class + base classes). Keep signatures, names, attributes, namespaces, .meta files untouched. Do not add new files unless a compiler-generated helper is needed.
+- Async state machines (<X>d__N) → write as async UniTask/IEnumerator in the owning method; lambdas (<>c / DisplayClass) → inline lambdas.
+- If native pseudocode is truncated or unclear, inspect the matching ARM assembly, field offsets and literal data before changing behavior. Do not guess from names or write the most likely implementation. If evidence is still insufficient, leave the member unchanged and record its native address and blocker as partial in the progress report and PROJ/docs/deferred-work.md. Never replace a stub with NotImplementedException.
+- Calls into live-ops/ads/IAP/analytics/server SDKs (EDIT THIS LIST PER GAME; PixelFlow had: Weaver, Nakama, Scopely, Firebase, Facebook, Purchasing, RewardedVideos, Interstitials, Offerwall, LiveOffers, Analytics, Tracking): keep the call if the target type exists (it is a no-op stub), do not port those SDK classes.
+- Edit ONLY files of classes in this group. Do NOT run Unity. Optional: quick syntax sanity only.
+- Backup each file before first edit to WORK/backup/b3/__GROUP__/<relative path>.
+- Keep a progress file WORK/reports/b3-__GROUP__.md: first line `Tiến độ: X/Y lớp xong` (update every ~10 classes). Count only fully translated/audited classes as done; partial classes do not count as completed. Then list each class as done/partial with evidence and unresolved members, and a final list of stub dependencies outside this group. Compile success alone does not establish behavioral correctness.
+Work through ALL classes of the group; prioritise classes used at runtime (MonoBehaviours, ScriptableObjects, systems) over editor/debug helpers.

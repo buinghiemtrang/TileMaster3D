@@ -1,0 +1,55 @@
+{
+"2": {
+"FuntionValueOne": [
+1
+]
+}, 
+"3": {
+"FuntionValueOne": [
+15
+]
+}, 
+"4": {
+"FuntionValueOne": [
+1
+]
+}, 
+"5": {
+"FuntionValueOne": [
+2, 
+4
+]
+}, 
+"6": {
+"FuntionValueOne": [
+10
+]
+}, 
+"7": {
+"FuntionValueOne": [
+10
+]
+}, 
+"8": {
+"FuntionValueOne": [
+10
+]
+}, 
+"9": {
+"FuntionValueTwo": [
+[
+9999, 
+2, 
+4
+], 
+[
+9401, 
+2, 
+4
+]
+], 
+"FuntionValueOne": [
+1101
+]
+}
+}

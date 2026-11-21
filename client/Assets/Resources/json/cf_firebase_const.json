@@ -1,0 +1,63 @@
+{
+"cum_rev_changeAddValue": 2.0, 
+"cum_version": "1.12.7", 
+"cum_log_name": "Cum_rev", 
+"ad_impression_multiple": [
+"ad_impression100|100", 
+"ad_impression200|200", 
+"ad_impression500|500", 
+"ad_impression1000|1000", 
+"IAA_D14_D7|1.3", 
+"IAA_D30_D7|1.7"
+], 
+"cum_rev_changeValue": 2.15, 
+"ad_revenue_01_tidu_03_start": 0.1, 
+"ad_revenue_source_media": [
+"unity", 
+"google", 
+"facebook", 
+"applovin", 
+"mintegral"
+], 
+"ad_revenue_main": {
+"ad_revenue_0005_main": 0.005, 
+"ad_revenue_02_main": 0.2, 
+"ad_revenue_005_main": 0.05, 
+"ad_revenue_05_main": 0.5, 
+"ad_revenue_1_main": 1.0, 
+"ad_revenue_03_main": 0.3, 
+"ad_revenue_001_main": 0.01, 
+"ad_revenue_01_main": 0.1, 
+"ad_revenue_2_main": 2.0
+}, 
+"cum_rev_addValue": 0.1, 
+"cum_rev_startValue": 0.05, 
+"ad_purchase_revenue_main": {
+"ad_pur_revenue_001_main": 0.01, 
+"ad_pur_revenue_0005_main": 0.005, 
+"ad_pur_revenue_005_main": 0.05, 
+"ad_pur_revenue_01_main": 0.1, 
+"ad_pur_revenue_02_main": 0.2
+}, 
+"cum_rev_max": 20.0, 
+"purchase_multiple": [
+"purchase_2|2", 
+"purchase_5|5", 
+"purchase_10|10"
+], 
+"ad_revenue_tidu_version": "1.12.8", 
+"ad_revenue_001_tidu_001_start": 0.01, 
+"ad_total_value_multiple": [
+"ad_impression001_1000|0.01|1000", 
+"ad_impression01_100|0.1|100"
+], 
+"ad_revenue_001_tidu_001_interval": 0.01, 
+"ad_purchase_revenue_source_media": [
+"unity", 
+"google", 
+"facebook", 
+"applovin", 
+"mintegral"
+], 
+"ad_revenue_01_tidu_03_interval": 0.3
+}

@@ -1,0 +1,34 @@
+
+TM3D_Medal_Christmas_01_ani.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 408, 22
+  size: 175, 175
+  orig: 177, 177
+  offset: 1, 1
+  index: -1
+quan
+  rotate: false
+  xy: 2, 2
+  size: 195, 195
+  orig: 197, 197
+  offset: 1, 1
+  index: -1
+scarf
+  rotate: false
+  xy: 585, 47
+  size: 101, 150
+  orig: 101, 150
+  offset: 0, 0
+  index: -1
+snowman
+  rotate: true
+  xy: 199, 20
+  size: 177, 207
+  orig: 179, 209
+  offset: 1, 1
+  index: -1

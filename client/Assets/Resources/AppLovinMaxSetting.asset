@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d9f456ec7b10fcd8d9af15561dd5eb7, type: 3}
+  m_Name: AppLovinMaxSetting
+  m_EditorClassIdentifier:
+  android:
+    AppID:
+    AdmobAppID: ca-app-pub-8252390069143459~4122184396
+    RewardUnitID: 18a89d4485d11122
+    InterstitialID: 4a199f72e15f526c
+    BannerID: eaa7544b387964de
+    TopBannerID: eaa7544b387964de
+    SDKID: 9uHgeBwag3NXva9MC23ToO3q11Ve59bF1uwg4qGltdGmCQ7OSByFZ_3b1ZF7krMlkHQo5gXzIokVDsvg1rwbr-
+    ApsAppID: ae7af798-bec4-45b0-8f66-bfb6fdb91f49
+    ApsRewardUUID: 9262c6da-c5ce-4a99-a597-d90e6850803b
+    ApsInterstitialUUID: f140efa0-f769-42c9-a4e5-02aa193295b0
+    ApsBannerUUID: ea33dd93-b5e4-45d9-a201-1fc029c35460
+    TopApsBannerUUID: ea33dd93-b5e4-45d9-a201-1fc029c35460
+  iOS:
+    AppID:
+    AdmobAppID:
+    RewardUnitID: ad8d95e17c695404
+    InterstitialID: 48b32aef36b806ea
+    BannerID: fc99bcaaa78f4b4a
+    TopBannerID:
+    SDKID: 9uHgeBwag3NXva9MC23ToO3q11Ve59bF1uwg4qGltdGmCQ7OSByFZ_3b1ZF7krMlkHQo5gXzIokVDsvg1rwbr-
+    ApsAppID: e7985160-a61a-4a98-9fb4-bb839caedafb
+    ApsRewardUUID: d42dba84-be0e-4ea8-b5c4-e9841e852015
+    ApsInterstitialUUID: 0c987dfd-f3fb-43a0-bcc5-f300072f9be0
+    ApsBannerUUID: df9be50a-ad45-4c5a-bcc2-fbc4e50bb78a
+    TopApsBannerUUID:

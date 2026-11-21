@@ -1,0 +1,57 @@
+[
+{
+"name": "Language139", 
+"defaultOrdinaryInfo": "Improve your ranking and get rewards! \\n Open on weekends.", 
+"defaultLockInfo": "The event is coming soon, so stay tuned!", 
+"defaultName": "Master League", 
+"bgName": "Victories", 
+"lockInfo": "Entrance_Unlock", 
+"functionType": 3, 
+"id": 1, 
+"ordinaryInfo": "Star_Des"
+}, 
+{
+"name": "Language364", 
+"defaultOrdinaryInfo": "Get on the rankings, and get rewards! \\n Open all month.", 
+"defaultLockInfo": "The event is coming soon, so stay tuned!", 
+"defaultName": "Monthly Ranking", 
+"bgName": "MonthlyRanking", 
+"lockInfo": "Entrance_Unlock", 
+"functionType": 6, 
+"id": 2, 
+"ordinaryInfo": "Month_Des"
+}, 
+{
+"name": "Language275", 
+"defaultOrdinaryInfo": "Win levels and get more rewards! \\n Open on Thursday and Friday.", 
+"defaultLockInfo": "The event is coming soon, so stay tuned!", 
+"defaultName": "Winning Streak", 
+"bgName": "StarRanking", 
+"lockInfo": "Entrance_Unlock", 
+"functionType": 2, 
+"id": 3, 
+"ordinaryInfo": "Win_Des"
+}, 
+{
+"name": "Language310", 
+"defaultOrdinaryInfo": "Collect models with team members! \\n Open from Monday to Wednesday.", 
+"defaultLockInfo": "The event is coming soon, so stay tuned!", 
+"defaultName": "Treasure Hunt", 
+"bgName": "TreasureHunt", 
+"lockInfo": "Entrance_Unlock", 
+"functionType": 4, 
+"id": 4, 
+"ordinaryInfo": "Treasures_Des"
+}, 
+{
+"name": "Language391", 
+"defaultOrdinaryInfo": "Bake cakes with your guild members! \\n Open on Thursday and Friday.", 
+"defaultLockInfo": "The event is coming soon, so stay tuned!", 
+"defaultName": "Baking Master", 
+"bgName": "BakingMaster", 
+"lockInfo": "Entrance_Unlock", 
+"functionType": 13, 
+"id": 5, 
+"ordinaryInfo": "Language422"
+}
+]

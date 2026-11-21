@@ -1,0 +1,195 @@
+
+TM3D_box05_ani.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01-box
+  rotate: false
+  xy: 607, 863
+  size: 227, 143
+  orig: 229, 143
+  offset: 1, 0
+  index: -1
+01-close
+  rotate: false
+  xy: 512, 717
+  size: 237, 144
+  orig: 238, 145
+  offset: 0, 1
+  index: -1
+01-open
+  rotate: false
+  xy: 2, 263
+  size: 174, 162
+  orig: 174, 163
+  offset: 0, 1
+  index: -1
+192308d7vhvzi4np0h1p0m
+  rotate: false
+  xy: 795, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+bottom02
+  rotate: false
+  xy: 751, 714
+  size: 251, 146
+  orig: 253, 147
+  offset: 1, 1
+  index: -1
+bottom03
+  rotate: false
+  xy: 186, 569
+  size: 229, 148
+  orig: 231, 149
+  offset: 1, 1
+  index: -1
+bottom04
+  rotate: false
+  xy: 2, 740
+  size: 228, 144
+  orig: 228, 145
+  offset: 0, 1
+  index: -1
+bottom05
+  rotate: false
+  xy: 417, 567
+  size: 232, 148
+  orig: 234, 149
+  offset: 1, 1
+  index: -1
+bottom06
+  rotate: false
+  xy: 179, 418
+  size: 230, 149
+  orig: 231, 150
+  offset: 0, 1
+  index: -1
+bottom07
+  rotate: false
+  xy: 672, 408
+  size: 231, 154
+  orig: 233, 155
+  offset: 1, 1
+  index: -1
+bottom08
+  rotate: false
+  xy: 232, 719
+  size: 278, 143
+  orig: 280, 144
+  offset: 1, 1
+  index: -1
+close02
+  rotate: false
+  xy: 178, 252
+  size: 241, 159
+  orig: 243, 159
+  offset: 1, 0
+  index: -1
+close03
+  rotate: false
+  xy: 421, 247
+  size: 245, 164
+  orig: 247, 165
+  offset: 1, 1
+  index: -1
+close04
+  rotate: true
+  xy: 2, 83
+  size: 178, 167
+  orig: 178, 168
+  offset: 0, 1
+  index: -1
+close05
+  rotate: false
+  xy: 2, 886
+  size: 233, 120
+  orig: 233, 121
+  offset: 0, 1
+  index: -1
+close06
+  rotate: false
+  xy: 368, 864
+  size: 237, 142
+  orig: 237, 143
+  offset: 0, 1
+  index: -1
+close07
+  rotate: false
+  xy: 411, 413
+  size: 259, 149
+  orig: 259, 150
+  offset: 0, 1
+  index: -1
+close08
+  rotate: false
+  xy: 363, 58
+  size: 229, 187
+  orig: 229, 187
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 237, 878
+  size: 128, 129
+  orig: 225, 225
+  offset: 47, 53
+  index: -1
+open02
+  rotate: false
+  xy: 2, 427
+  size: 175, 161
+  orig: 175, 161
+  offset: 0, 0
+  index: -1
+open03
+  rotate: false
+  xy: 171, 81
+  size: 190, 169
+  orig: 190, 170
+  offset: 0, 1
+  index: -1
+open04
+  rotate: false
+  xy: 651, 564
+  size: 238, 148
+  orig: 238, 148
+  offset: 0, 0
+  index: -1
+open05
+  rotate: true
+  xy: 847, 229
+  size: 177, 169
+  orig: 177, 169
+  offset: 0, 0
+  index: -1
+open06
+  rotate: false
+  xy: 668, 242
+  size: 177, 164
+  orig: 177, 165
+  offset: 0, 1
+  index: -1
+open07
+  rotate: false
+  xy: 2, 590
+  size: 182, 148
+  orig: 182, 149
+  offset: 0, 1
+  index: -1
+open08
+  rotate: false
+  xy: 836, 862
+  size: 168, 144
+  orig: 169, 144
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 594, 46
+  size: 199, 194
+  orig: 225, 225
+  offset: 13, 16
+  index: -1

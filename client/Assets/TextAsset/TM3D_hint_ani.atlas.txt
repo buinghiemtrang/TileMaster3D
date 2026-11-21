@@ -1,0 +1,13 @@
+
+TM3D_hint_ani.png
+size: 32,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hint
+  rotate: false
+  xy: 2, 2
+  size: 17, 25
+  orig: 18, 26
+  offset: 0, 1
+  index: -1

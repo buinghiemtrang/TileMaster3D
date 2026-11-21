@@ -1,0 +1,90 @@
+
+TM3D_Medal_TH_01_ani.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L
+  rotate: false
+  xy: 935, 83
+  size: 36, 180
+  orig: 36, 180
+  offset: 0, 0
+  index: -1
+L-wing
+  rotate: false
+  xy: 826, 6
+  size: 58, 143
+  orig: 58, 143
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 973, 83
+  size: 36, 180
+  orig: 36, 180
+  offset: 0, 0
+  index: -1
+R-wing
+  rotate: true
+  xy: 121, 36
+  size: 58, 143
+  orig: 58, 143
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 442, 190
+  size: 313, 312
+  orig: 313, 312
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 442, 84
+  size: 294, 104
+  orig: 294, 104
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 2, 29
+  size: 117, 65
+  orig: 118, 65
+  offset: 0, 0
+  index: -1
+light-1
+  rotate: true
+  xy: 2, 96
+  size: 406, 438
+  orig: 408, 438
+  offset: 1, 0
+  index: -1
+light-heart
+  rotate: false
+  xy: 886, 2
+  size: 116, 79
+  orig: 116, 79
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 826, 151
+  size: 107, 112
+  orig: 107, 112
+  offset: 0, 0
+  index: -1
+up
+  rotate: true
+  xy: 757, 49
+  size: 214, 67
+  orig: 214, 67
+  offset: 0, 0
+  index: -1
+xing
+  rotate: true
+  xy: 757, 265
+  size: 237, 236
+  orig: 237, 236
+  offset: 0, 0
+  index: -1

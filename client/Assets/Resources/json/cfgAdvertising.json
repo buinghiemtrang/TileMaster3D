@@ -1,0 +1,29 @@
+{
+    "active": true,
+    "infos":[
+        {
+            "id": 1,
+            "file": "DefaultVideo.mp4",
+            "weight": 10,
+            "appName": "Tile Connect",
+            "backPlane": "TC",
+            "install": "https://tileconnect.onelink.me/DOcW/e5361a9f"
+        },
+        {
+            "id": 2,
+            "file": "tm3d/tc001.mp4",
+            "weight": 10,
+            "appName": "Tile Connect",
+            "backPlane": "TC",
+            "install": "https://tileconnect.onelink.me/DOcW/e5361a9f"
+        },
+        {
+            "id": 3,
+            "file": "tm3d/tc002.mp4",
+            "weight": 10,
+            "appName": "Tile Connect",
+            "backPlane": "TC",
+            "install": "https://tileconnect.onelink.me/DOcW/e5361a9f"
+        }
+    ]
+}

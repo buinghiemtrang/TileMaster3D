@@ -1,0 +1,69 @@
+
+TM3D_Pass_Banner01_eff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butterfly
+  rotate: false
+  xy: 2, 146
+  size: 488, 356
+  orig: 504, 372
+  offset: 2, 6
+  index: -1
+key
+  rotate: true
+  xy: 722, 504
+  size: 169, 146
+  orig: 171, 148
+  offset: 1, 1
+  index: -1
+key-glow
+  rotate: false
+  xy: 722, 675
+  size: 185, 187
+  orig: 187, 189
+  offset: 1, 1
+  index: -1
+key-shadow
+  rotate: true
+  xy: 870, 430
+  size: 170, 26
+  orig: 172, 28
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 492, 2
+  size: 348, 500
+  orig: 350, 502
+  offset: 1, 1
+  index: -1
+point
+  rotate: true
+  xy: 898, 592
+  size: 8, 7
+  orig: 10, 9
+  offset: 1, 1
+  index: -1
+point-cankao
+  rotate: false
+  xy: 2, 504
+  size: 718, 358
+  orig: 720, 360
+  offset: 1, 1
+  index: -1
+star1
+  rotate: false
+  xy: 870, 636
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+star2
+  rotate: false
+  xy: 870, 602
+  size: 31, 32
+  orig: 33, 34
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,682 @@
+[
+{
+"EventName": "ia_003", 
+"SdkType": 3, 
+"Version": "", 
+"DayBefore": -1, 
+"IapIaaValue": 0.03
+}, 
+{
+"EventName": "ia_004", 
+"SdkType": 3, 
+"Version": "", 
+"DayBefore": -1, 
+"IapIaaValue": 0.04
+}, 
+{
+"EventName": "ia_005", 
+"SdkType": 3, 
+"Version": "", 
+"DayBefore": -1, 
+"IapIaaValue": 0.05
+}, 
+{
+"EventName": "ia_007", 
+"SdkType": 3, 
+"Version": "", 
+"DayBefore": -1, 
+"IapIaaValue": 0.07
+}, 
+{
+"EventName": "ia_009", 
+"SdkType": 3, 
+"Version": "", 
+"DayBefore": -1, 
+"IapIaaValue": 0.09
+}, 
+{
+"EventName": "ia_01", 
+"SdkType": 3, 
+"Version": "", 
+"DayBefore": -1, 
+"IapIaaValue": 0.1
+}, 
+{
+"EventName": "ia_02", 
+"SdkType": 3, 
+"Version": "", 
+"DayBefore": -1, 
+"IapIaaValue": 0.2
+}, 
+{
+"EventName": "ia_03", 
+"SdkType": 3, 
+"Version": "", 
+"DayBefore": -1, 
+"IapIaaValue": 0.3
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r005_i6", 
+"SdkType": 1, 
+"AdInter": 6
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r005_i10", 
+"SdkType": 1, 
+"AdInter": 10
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r005_i15", 
+"SdkType": 1, 
+"AdInter": 15
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r005_i20", 
+"SdkType": 1, 
+"AdInter": 20
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r005_i30", 
+"SdkType": 1, 
+"AdInter": 30
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"AdReward": 2, 
+"DayBefore": -1, 
+"EventName": "all_r005_r2", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"AdReward": 4, 
+"DayBefore": -1, 
+"EventName": "all_r005_r4", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"AdReward": 6, 
+"DayBefore": -1, 
+"EventName": "all_r005_r6", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"Level": 5, 
+"DayBefore": -1, 
+"EventName": "all_r005_v5", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"Level": 10, 
+"DayBefore": -1, 
+"EventName": "all_r005_v10", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"Level": 15, 
+"DayBefore": -1, 
+"EventName": "all_r005_v15", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"Level": 20, 
+"DayBefore": -1, 
+"EventName": "all_r005_v20", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.05, 
+"Version": "", 
+"Level": 30, 
+"DayBefore": -1, 
+"EventName": "all_r005_v30", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r01_i6", 
+"SdkType": 1, 
+"AdInter": 6
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r01_i10", 
+"SdkType": 1, 
+"AdInter": 10
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r01_i15", 
+"SdkType": 1, 
+"AdInter": 15
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r01_i20", 
+"SdkType": 1, 
+"AdInter": 20
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r01_i30", 
+"SdkType": 1, 
+"AdInter": 30
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"AdReward": 2, 
+"DayBefore": -1, 
+"EventName": "all_r01_r2", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"AdReward": 4, 
+"DayBefore": -1, 
+"EventName": "all_r01_r4", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"AdReward": 6, 
+"DayBefore": -1, 
+"EventName": "all_r01_r6", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"Level": 5, 
+"DayBefore": -1, 
+"EventName": "all_r01_v5", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"Level": 10, 
+"DayBefore": -1, 
+"EventName": "all_r01_v10", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"Level": 15, 
+"DayBefore": -1, 
+"EventName": "all_r01_v15", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"Level": 20, 
+"DayBefore": -1, 
+"EventName": "all_r01_v20", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.1, 
+"Version": "", 
+"Level": 30, 
+"DayBefore": -1, 
+"EventName": "all_r01_v30", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r03_i6", 
+"SdkType": 1, 
+"AdInter": 6
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r03_i10", 
+"SdkType": 1, 
+"AdInter": 10
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r03_i15", 
+"SdkType": 1, 
+"AdInter": 15
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r03_i20", 
+"SdkType": 1, 
+"AdInter": 20
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r03_i30", 
+"SdkType": 1, 
+"AdInter": 30
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"AdReward": 2, 
+"DayBefore": -1, 
+"EventName": "all_r03_r2", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"AdReward": 4, 
+"DayBefore": -1, 
+"EventName": "all_r03_r4", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"AdReward": 6, 
+"DayBefore": -1, 
+"EventName": "all_r03_r6", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"Level": 5, 
+"DayBefore": -1, 
+"EventName": "all_r03_v5", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"Level": 10, 
+"DayBefore": -1, 
+"EventName": "all_r03_v10", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"Level": 15, 
+"DayBefore": -1, 
+"EventName": "all_r03_v15", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"Level": 20, 
+"DayBefore": -1, 
+"EventName": "all_r03_v20", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.3, 
+"Version": "", 
+"Level": 30, 
+"DayBefore": -1, 
+"EventName": "all_r03_v30", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r05_i6", 
+"SdkType": 1, 
+"AdInter": 6
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r05_i10", 
+"SdkType": 1, 
+"AdInter": 10
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r05_i15", 
+"SdkType": 1, 
+"AdInter": 15
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r05_i20", 
+"SdkType": 1, 
+"AdInter": 20
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r05_i30", 
+"SdkType": 1, 
+"AdInter": 30
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"AdReward": 2, 
+"DayBefore": -1, 
+"EventName": "all_r05_r2", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"AdReward": 4, 
+"DayBefore": -1, 
+"EventName": "all_r05_r4", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"AdReward": 6, 
+"DayBefore": -1, 
+"EventName": "all_r05_r6", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"Level": 5, 
+"DayBefore": -1, 
+"EventName": "all_r05_v5", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"Level": 10, 
+"DayBefore": -1, 
+"EventName": "all_r05_v10", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"Level": 15, 
+"DayBefore": -1, 
+"EventName": "all_r05_v15", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"Level": 20, 
+"DayBefore": -1, 
+"EventName": "all_r05_v20", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.5, 
+"Version": "", 
+"Level": 30, 
+"DayBefore": -1, 
+"EventName": "all_r05_v30", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r07_i6", 
+"SdkType": 1, 
+"AdInter": 6
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r07_i10", 
+"SdkType": 1, 
+"AdInter": 10
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r07_i15", 
+"SdkType": 1, 
+"AdInter": 15
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r07_i20", 
+"SdkType": 1, 
+"AdInter": 20
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r07_i30", 
+"SdkType": 1, 
+"AdInter": 30
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"AdReward": 2, 
+"DayBefore": -1, 
+"EventName": "all_r07_r2", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"AdReward": 4, 
+"DayBefore": -1, 
+"EventName": "all_r07_r4", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"AdReward": 6, 
+"DayBefore": -1, 
+"EventName": "all_r07_r6", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"Level": 5, 
+"DayBefore": -1, 
+"EventName": "all_r07_v5", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"Level": 10, 
+"DayBefore": -1, 
+"EventName": "all_r07_v10", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"Level": 15, 
+"DayBefore": -1, 
+"EventName": "all_r07_v15", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"Level": 20, 
+"DayBefore": -1, 
+"EventName": "all_r07_v20", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 0.7, 
+"Version": "", 
+"Level": 30, 
+"DayBefore": -1, 
+"EventName": "all_r07_v30", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r1_i6", 
+"SdkType": 1, 
+"AdInter": 6
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r1_i10", 
+"SdkType": 1, 
+"AdInter": 10
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r1_i15", 
+"SdkType": 1, 
+"AdInter": 15
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r1_i20", 
+"SdkType": 1, 
+"AdInter": 20
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"DayBefore": -1, 
+"EventName": "all_r1_i30", 
+"SdkType": 1, 
+"AdInter": 30
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"AdReward": 2, 
+"DayBefore": -1, 
+"EventName": "all_r1_r2", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"AdReward": 4, 
+"DayBefore": -1, 
+"EventName": "all_r1_r4", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"AdReward": 6, 
+"DayBefore": -1, 
+"EventName": "all_r1_r6", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"Level": 5, 
+"DayBefore": -1, 
+"EventName": "all_r1_v5", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"Level": 10, 
+"DayBefore": -1, 
+"EventName": "all_r1_v10", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"Level": 15, 
+"DayBefore": -1, 
+"EventName": "all_r1_v15", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"Level": 20, 
+"DayBefore": -1, 
+"EventName": "all_r1_v20", 
+"SdkType": 1
+}, 
+{
+"IapIaaValue": 1.0, 
+"Version": "", 
+"Level": 30, 
+"DayBefore": -1, 
+"EventName": "all_r1_v30", 
+"SdkType": 1
+}
+]

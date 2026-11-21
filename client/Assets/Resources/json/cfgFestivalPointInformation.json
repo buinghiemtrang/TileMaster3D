@@ -1,0 +1,391 @@
+[
+{
+"information": "Festival/RoyalPassActivity/Halloween/EntranceIcon", 
+"type": "Halloween", 
+"id": 1, 
+"pointKey": "Prefab_MainLayer_RoyalPassActivity_EntranceIcon"
+}, 
+{
+"information": "Festival/RoyalPassActivity/Halloween/Icon", 
+"type": "Halloween", 
+"id": 2, 
+"pointKey": "Picture_RoyalPassActivity_Icon"
+}, 
+{
+"information": "Festival/Common/Halloween/HalloweenPopupBg", 
+"type": "Halloween", 
+"id": 4, 
+"pointKey": "Picture_Common_Bg"
+}, 
+{
+"information": "1|00274c,2|022a50", 
+"type": "Halloween", 
+"id": 5, 
+"pointKey": "Title_Common_TitleColor"
+}, 
+{
+"information": "Festival/Common/Halloween/PopBanner", 
+"type": "Halloween", 
+"id": 6, 
+"pointKey": "Prefab_Common_Banner"
+}, 
+{
+"information": "Festival/Common/Halloween/HalloweenPopupBg2", 
+"type": "Halloween", 
+"id": 7, 
+"pointKey": "Picture_Common_Bg2"
+}, 
+{
+"information": "Festival/Common/Halloween/Decorate", 
+"type": "Halloween", 
+"id": 8, 
+"pointKey": "Prefab_Common_Decorate"
+}, 
+{
+"information": "Festival/Common/Christmas/HalloweenPopupBg", 
+"type": "Christmas", 
+"id": 9, 
+"pointKey": "Picture_Common_Bg"
+}, 
+{
+"information": "1|5c0800,2|5c0800", 
+"type": "Christmas", 
+"id": 10, 
+"pointKey": "Title_Common_TitleColor"
+}, 
+{
+"information": "Festival/Common/Christmas/PopBanner", 
+"type": "Christmas", 
+"id": 11, 
+"pointKey": "Prefab_Common_Banner"
+}, 
+{
+"information": "Festival/Common/Christmas/HalloweenPopupBg2", 
+"type": "Christmas", 
+"id": 12, 
+"pointKey": "Picture_Common_Bg2"
+}, 
+{
+"information": "Festival/Common/Christmas/Decorate", 
+"type": "Christmas", 
+"id": 13, 
+"pointKey": "Prefab_Common_Decorate"
+}, 
+{
+"information": "Festival/PigBankDialog/Halloween/PigDialogIcon", 
+"type": "Halloween", 
+"id": 14, 
+"pointKey": "Picture_PigBankDialog_Icon"
+}, 
+{
+"information": "Festival/PigBankDialog/Halloween/PigDialogProgressBg", 
+"type": "Halloween", 
+"id": 15, 
+"pointKey": "Picture_PigBankDialog_ProgressBg"
+}, 
+{
+"information": "Festival/PigBankDialog/Halloween/PigDialogProgress", 
+"type": "Halloween", 
+"id": 16, 
+"pointKey": "Picture_PigBankDialog_Progress"
+}, 
+{
+"information": "Festival/PigBankDialog/Halloween/PigDialogGoldFullBg", 
+"type": "Halloween", 
+"id": 17, 
+"pointKey": "Picture_PigBankDialog_GoldFullBg"
+}, 
+{
+"information": "0|ffffff,1|04427e,2|04427e", 
+"type": "Halloween", 
+"id": 18, 
+"pointKey": "Picture_PigBankDialog_ProgressTextColor"
+}, 
+{
+"information": "1|002656,2|002656", 
+"type": "Halloween", 
+"id": 19, 
+"pointKey": "Picture_PigBankDialog_FullTextColor"
+}, 
+{
+"information": "0|ffffff,1|4e000d,2|4e000d", 
+"type": "Christmas", 
+"id": 25, 
+"pointKey": "Picture_PigBankDialog_ProgressTextColor"
+}, 
+{
+"information": "1|072f00,2|072f00", 
+"type": "Christmas", 
+"id": 26, 
+"pointKey": "Picture_PigBankDialog_FullTextColor"
+}, 
+{
+"information": "Festival/Logo/Halloween/Logo", 
+"type": "Halloween", 
+"id": 27, 
+"pointKey": "Picture_Logo"
+}, 
+{
+"information": "Festival/Logo/Halloween/LoadingBg", 
+"type": "Halloween", 
+"id": 28, 
+"pointKey": "Picture_Loading_ProgressBg"
+}, 
+{
+"information": "Festival/Logo/Halloween/Loading", 
+"type": "Halloween", 
+"id": 29, 
+"pointKey": "Picture_Loading_Progress"
+}, 
+{
+"information": "Festival/Logo/Christmas/Logo", 
+"type": "Christmas", 
+"id": 30, 
+"pointKey": "Picture_Logo"
+}, 
+{
+"information": "Festival/Logo/Christmas/LoadingBg", 
+"type": "Christmas", 
+"id": 31, 
+"pointKey": "Picture_Loading_ProgressBg"
+}, 
+{
+"information": "Festival/Logo/Christmas/Loading", 
+"type": "Christmas", 
+"id": 32, 
+"pointKey": "Picture_Loading_Progress"
+}, 
+{
+"information": "Festival/Gift/Halloween/PopularPack", 
+"type": "Halloween", 
+"id": 33, 
+"pointKey": "Picture_Gift_Bg"
+}, 
+{
+"information": "Festival/Gift/Christmas/PopularPack", 
+"type": "Christmas", 
+"id": 34, 
+"pointKey": "Picture_Gift_Bg"
+}, 
+{
+"information": "Festival/Main/Halloween/ParkButtonImage", 
+"type": "Halloween", 
+"id": 35, 
+"pointKey": "Prefab_Main_ParkButtonImage"
+}, 
+{
+"information": "0", 
+"type": "Halloween", 
+"id": 36, 
+"pointKey": "Hide_Main_ParkButton"
+}, 
+{
+"information": "Festival/Main/Halloween/ActivityIcon", 
+"type": "Halloween", 
+"id": 37, 
+"pointKey": "Picture_Main_ActivityIcon"
+}, 
+{
+"information": "", 
+"type": "", 
+"pointKey": ""
+}, 
+{
+"information": "0", 
+"type": "Christmas", 
+"id": 36, 
+"pointKey": "Hide_Main_ParkButton"
+}, 
+{
+"information": "Festival/Main/Christmas/ParkButtonImage", 
+"type": "Christmas", 
+"id": 35, 
+"pointKey": "Prefab_Main_ParkButtonImage"
+}, 
+{
+"information": "Festival/Store/Halloween/HalloweenSpecialPack1", 
+"type": "Halloween", 
+"id": 38, 
+"pointKey": "Picture_Store_Bundle1"
+}, 
+{
+"information": "Festival/Store/Christmas/ChristmasSpecialPack1", 
+"type": "Christmas", 
+"id": 39, 
+"pointKey": "Picture_Store_Bundle1"
+}, 
+{
+"information": "Festival/Store/Halloween/HalloweenSpecialPack2", 
+"type": "Halloween", 
+"id": 40, 
+"pointKey": "Picture_Store_Bundle2"
+}, 
+{
+"information": "Festival/Store/Christmas/ChristmasSpecialPack2", 
+"type": "Christmas", 
+"id": 41, 
+"pointKey": "Picture_Store_Bundle2"
+}, 
+{
+"information": "Festival/Store/Halloween/HalloweenStoreSale", 
+"type": "Halloween", 
+"id": 42, 
+"pointKey": "Picture_Store_SaleBg"
+}, 
+{
+"information": "Festival/Store/Halloween/HalloweenSpecialPackPic1", 
+"type": "Halloween", 
+"id": 43, 
+"pointKey": "Picture_Store_BundleIcon1"
+}, 
+{
+"information": "Festival/Store/Christmas/ChristmasSpecialPackPic1", 
+"type": "Christmas", 
+"id": 44, 
+"pointKey": "Picture_Store_BundleIcon1"
+}, 
+{
+"information": "Festival/Store/Halloween/HalloweenSpecialPackPic2", 
+"type": "Halloween", 
+"id": 45, 
+"pointKey": "Picture_Store_BundleIcon2"
+}, 
+{
+"information": "Festival/Store/Christmas/ChristmasSpecialPackPic2", 
+"type": "Christmas", 
+"id": 46, 
+"pointKey": "Picture_Store_BundleIcon2"
+}, 
+{
+"information": "Festival/Store/Halloween/HalloweenTimeBg1", 
+"type": "Halloween", 
+"id": 47, 
+"pointKey": "Picture_Store_TimeBg1"
+}, 
+{
+"information": "Festival/Store/Christmas/ChristmasTimeBg1", 
+"type": "Christmas", 
+"id": 48, 
+"pointKey": "Picture_Store_TimeBg1"
+}, 
+{
+"information": "Festival/Store/Halloween/HalloweenTimeBg2", 
+"type": "Halloween", 
+"id": 49, 
+"pointKey": "Picture_Store_TimeBg2"
+}, 
+{
+"information": "Festival/Store/Christmas/ChristmasTimeBg2", 
+"type": "Christmas", 
+"id": 50, 
+"pointKey": "Picture_Store_TimeBg2"
+}, 
+{
+"information": "ffffff|efaa00", 
+"type": "Halloween", 
+"id": 51, 
+"pointKey": "Title_Store_TitleTwoColor1"
+}, 
+{
+"information": "ffffff|00e7ef", 
+"type": "Halloween", 
+"id": 52, 
+"pointKey": "Title_Store_TitleTwoColor2"
+}, 
+{
+"information": "1|012537,2|012537", 
+"type": "Halloween", 
+"id": 53, 
+"pointKey": "Title_Store_TitleOutColor1"
+}, 
+{
+"information": "1|00000066,2|00000066", 
+"type": "Halloween", 
+"id": 54, 
+"pointKey": "Title_Store_ItemValueColor"
+}, 
+{
+"information": "Festival/Store/Christmas/StoreCardGroupChest1", 
+"type": "Christmas", 
+"id": 55, 
+"pointKey": "StoreCardGroupChest1"
+}, 
+{
+"information": "Festival/Store/Christmas/StoreCardGroupChest2", 
+"type": "Christmas", 
+"id": 56, 
+"pointKey": "StoreCardGroupChest2"
+}, 
+{
+"information": "Festival/Store/Christmas/StoreCardGroupChest3", 
+"type": "Christmas", 
+"id": 57, 
+"pointKey": "StoreCardGroupChest3"
+}, 
+{
+"information": "Festival/Result/Halloween/TeamActivity", 
+"type": "Halloween", 
+"id": 58, 
+"pointKey": "Picture_Result_TeamActivityIcon"
+}, 
+{
+"information": "Festival/Result/Halloween/VictoryDialogLevelChestIcon", 
+"type": "Halloween", 
+"id": 59, 
+"pointKey": "Picture_VictoryDialog_LevelChestIcon"
+}, 
+{
+"information": "Festival/Result/Christmas/VictoryDialogLevelChestIcon", 
+"type": "Christmas", 
+"id": 60, 
+"pointKey": "Picture_VictoryDialog_LevelChestIcon"
+}, 
+{
+"information": "Christmas/Christmas_logo", 
+"type": "Christmas", 
+"id": 61, 
+"pointKey": "loading_Bg"
+}, 
+{
+"information": "Christmas/vicroty-christmas-1-195", 
+"type": "Christmas", 
+"id": 62, 
+"pointKey": "victory_bar"
+}, 
+{
+"information": "Christmas/christmas-pack-195", 
+"type": "Christmas", 
+"id": 63, 
+"pointKey": "gift_bg"
+}, 
+{
+"information": "Christmas/Christmas_MainBtn", 
+"type": "Christmas", 
+"id": 64, 
+"pointKey": "mainBtn"
+}, 
+{
+"information": "Christmas/christmas-box-snow-195", 
+"type": "Christmas", 
+"id": 65, 
+"pointKey": "main_topBar"
+}, 
+{
+"information": "Christmas/Christmas_victoryTopBar", 
+"type": "Christmas", 
+"id": 66, 
+"pointKey": "victory_top"
+}, 
+{
+"information": "Christmas/Christmas_victoryBottomBar", 
+"type": "Christmas", 
+"id": 67, 
+"pointKey": "victory_bottom"
+}, 
+{
+"information": "Christmas/Christmas_closeBtn", 
+"type": "Christmas", 
+"id": 68, 
+"pointKey": "giftpop_closeBtn"
+}
+]

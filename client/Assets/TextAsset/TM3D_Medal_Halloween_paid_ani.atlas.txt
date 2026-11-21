@@ -1,0 +1,125 @@
+
+TM3D_Medal_Halloween_paid_ani.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Branches L1
+  rotate: true
+  xy: 185, 161
+  size: 90, 142
+  orig: 92, 144
+  offset: 1, 1
+  index: -1
+Branches L2
+  rotate: false
+  xy: 360, 9
+  size: 40, 38
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+Branches L3
+  rotate: true
+  xy: 360, 49
+  size: 49, 64
+  orig: 51, 66
+  offset: 1, 1
+  index: -1
+Branches L4
+  rotate: false
+  xy: 448, 93
+  size: 61, 56
+  orig: 63, 58
+  offset: 1, 1
+  index: -1
+Branches R1
+  rotate: true
+  xy: 2, 116
+  size: 90, 142
+  orig: 92, 144
+  offset: 1, 1
+  index: -1
+Branches R2
+  rotate: false
+  xy: 402, 2
+  size: 40, 38
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+Branches R3
+  rotate: true
+  xy: 426, 42
+  size: 49, 64
+  orig: 51, 66
+  offset: 1, 1
+  index: -1
+Branches R4
+  rotate: false
+  xy: 297, 42
+  size: 61, 56
+  orig: 63, 58
+  offset: 1, 1
+  index: -1
+candy1
+  rotate: true
+  xy: 146, 157
+  size: 49, 33
+  orig: 51, 35
+  offset: 1, 1
+  index: -1
+candy2
+  rotate: false
+  xy: 462, 151
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+candy3
+  rotate: true
+  xy: 462, 195
+  size: 52, 43
+  orig: 54, 45
+  offset: 1, 1
+  index: -1
+hat
+  rotate: false
+  xy: 185, 253
+  size: 166, 132
+  orig: 183, 136
+  offset: 1, 4
+  index: -1
+pumpkin
+  rotate: false
+  xy: 353, 249
+  size: 138, 136
+  orig: 140, 138
+  offset: 1, 1
+  index: -1
+pumpkin Light
+  rotate: false
+  xy: 329, 167
+  size: 131, 80
+  orig: 133, 82
+  offset: 1, 1
+  index: -1
+ring
+  rotate: false
+  xy: 2, 208
+  size: 181, 177
+  orig: 183, 179
+  offset: 1, 1
+  index: -1
+wing L
+  rotate: false
+  xy: 181, 94
+  size: 114, 65
+  orig: 114, 65
+  offset: 0, 0
+  index: -1
+wing R
+  rotate: false
+  xy: 329, 100
+  size: 117, 65
+  orig: 117, 65
+  offset: 0, 0
+  index: -1

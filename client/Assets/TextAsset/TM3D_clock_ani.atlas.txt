@@ -1,0 +1,20 @@
+
+TM3D_clock_ani.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhen
+  rotate: true
+  xy: 2, 2
+  size: 33, 56
+  orig: 37, 62
+  offset: 2, 5
+  index: -1
+zhong
+  rotate: false
+  xy: 2, 37
+  size: 150, 156
+  orig: 152, 160
+  offset: 1, 2
+  index: -1
